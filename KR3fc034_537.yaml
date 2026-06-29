@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/537
+seq: 537
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:0990e0e44012ba25be5b4b824ced0d2e4f7078bc64d9a27990ad5b7c1cd9ba8f

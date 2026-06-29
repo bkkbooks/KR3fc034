@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/214
+seq: 214
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 河縱橫圖本上一圈相生為九圖每圖各九數自一至九不外本圖之數成十則進前位縱橫定位分別九圖解義九圖各立九位每圖止用一馬轉移本省便之法也但九數互止寫卦名恐錯記易誤令照前圖改到直行便
+  hash: sha256:029eefd05bad39d63051dd2629f40343f84d2030564cf4ab169ddc51ec79d02b
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:c44e77edf0dbf86df8316aa89b690cb44bfc6596c3fd741ea294b9c17baffc03

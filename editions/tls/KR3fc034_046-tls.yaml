@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/46
+seq: 46
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方圓三稜各東法共十五條商木各等梱梆法共三條長方圓角尖半徑求積法共十五條磚帮以長高深開積法計一條第六卷程童章築造城堡開積法計一條方長圓方圓三角錐問積法共十五條築堤築墙問積法計九條穿地挑土求土方法共四條開梁濠問工問日問銀法共六條並日益人共工求工法共四條輕重計程計工法共二條億運問價問程法共三條疾較程問里法共七條輪黍魚金問里物共五條第七卷截两化觔求積法共九條以觔問引石约秤秉两分苛倍計一條
+  hash: sha256:1ffdc503cfc6aba36a467aec25d7047f8119a15f8cd5d8209d0ef2be59b59ca8
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:33281352732938070cf32feff75cccd9ab83a6a754992b641178e0751c6235c3

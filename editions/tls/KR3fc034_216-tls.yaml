@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/216
+seq: 216
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分毫勺九八七六五四三二一此即九圖法同但改為直行易文量合九八七六五四三二一曉法用長油粉一面橫開萬千分九八七六五四三二一千百十等位行下由下逆上各九八七六五四三二一列九數每行止用一錢作馬數買刃石九八七六五四三二一升數退上下推移成十有餘則十九八七六五四三二一加前位數退本位數無餘則加百九八七六五四三二一前位數去三位錢馬不用若位千九八七六五四三二一數加多或再添九添九行萬九八七六五四三二一如笑盤位數儘可加多附一掌金定位圖
+  hash: sha256:156a1289dc7488b08399e41a66658555626351fb8fdf8406ff31bab21a8913ed
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:344d88e09447aee51bff029566d45ff3daed1327f2f8bca4f3b3cd8526d26001

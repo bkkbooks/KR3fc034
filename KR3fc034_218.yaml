@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/218
+seq: 218
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一掌金右圖以九數置於左手各指各分三行偹列九數從大指起為百二指為十以次挨下用時於袖中用左右兩手五指各相配合對照每指上定數一二三三指尖在左指左旁四五六右指尖在左指中行七八九右指尖在左指右旁五指皆同如遇位數多二足底亦當二位平立為五平指歌前為四平跟歌後為六於東南為三側於西南福九歌於東
+  hash: sha256:16de65b4007993bb724b3764f471a23c281914f7c8509e84a6119b99c475f53d
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:0a77f5bd890b045d012598aff696458e630ce36c0402ed1db7627fa9f890241b

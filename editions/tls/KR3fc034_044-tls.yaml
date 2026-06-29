@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/44
+seq: 44
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 船數物數均載法共二條直田長濶差步開方法共二條直田長澗共步開方法共四條平圓開方問徑周法共三條大小圓問徑法計一條方圓相併求面徑圖計一條開立方朷啇定首位数共十九條開立方問方面法共二條開立方不用亷隅捷法計一條歸除命法帶縱約縱開立方法共六條開三乗立方各法共二條立圓開方問俓法共四條第五卷方長圓倉求積求倉法共六條方長圓窖求積求你窖法共四條蓆未米米求蓆法共二條盤量船倉求米法計一條圓堆中堆大小卓堆求求法共四條籃船散堆量笑引法計一條
+  hash: sha256:cdd588126e9ef6e97fd45eba9e03942cbade1fe39243300f208f7572e031b6d3
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:17484c1a8fb26feba2752dc6f16d196ddccd4152d073191186b73ade5db9d6ed

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/476
+seq: 476
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 股相乘一半為全勾股本積解義圓積是以二十四乘一十八餘勾股積是以二十四乘一十二併一十八與二十二共四十即圓得勾股四十分之一十八餘勾股積得四十分之二十二因上是圓積得勾股積平半恐人誤認為定則故復列此互明容方亦做此算海說詳第二卷終
+  hash: sha256:087a534bf866ba607becc4e26c7cbc8314e747a3d64b2e8239d5e60d3883ad46
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:a5f9bb2eec548d048ef60920e88c73b4c7747b7887523f0b18a95ffc0f061803

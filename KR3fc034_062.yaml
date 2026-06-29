@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/62
+seq: 62
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 算法九章名義算法從來分列九章分九章者本河洛九數而立九因九歸之法數以九分故章以九記但多篇章紛錯今按法釐次訛謖者正之雜亂者更之不倆者加增之棠法童撮總網目悉諸法今開卷明大故首之章偹方圓直斜勾股孤矢圭稊欖角等形及方圓圭角相容考較隱徽實諸法之原本故次之勾股諸法依及測高遠測深實有用大法也耽區亦勾股田故次及以便接次考較開方章萬法不離方求諸算多用開方故次勾股測貯章窑堆垜不外立方立故次開方臺錐等法有同倉窖而道里奔馳工作故次功程亦便接筧也栗帛錢刀度量椎公私必需故鏡泉次之至推算諸
+  hash: sha256:144ba475e5c9dd916df3ac138d1ff0576c0105702b54f6be06c8bce20d81e4f9
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:125ececeae66536be5bfdabf0af03f65c783dcdfed1a7c86f771b429a9e6d04e

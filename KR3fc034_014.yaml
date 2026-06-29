@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 付覆檢愛卷神不詳則守株佳爾聖詳算省弱汝欲是説孔余説拙爲先生之説歲康子仲余立佳邑長時困鉥毅為善月壬午拙百爽白內浮影夕我説事聆塵頭屑玉汩若例久出
+  hash: sha256:30c89f477e1d3e14b7933281c1f2ffb43e736020f5f7b9b8c85f61468981394c
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:c0d5ecf1c709f88f9b273b2d4361f7004ab0c80750de2b4118f1ead81903d99a

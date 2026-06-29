@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/1252
+seq: 1252
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七七圖四九二六二十四五四七四七四一八三二四十三十四二二九十八十九三九十七三二二一二十三六二三二五二七十四三十十六三五三三十一三一十五三四八四十十二二六三七九四三四六三四四二八五四八一求積法以首一併末四十九共五十以四十九乗之得二千四百五十折半得共積一千二百二十五以七行為法除之得縱橫斜角皆一百七十五
+  hash: sha256:66547a9b373d5e4d967f745486dc1488ad5183c566aa61fbdb5af492bef3fe63
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:292978f0d4617de5567a632b0135fedce1cf6cb44c0941a30253e2f408cdba56

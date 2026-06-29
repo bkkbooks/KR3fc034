@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/1268
+seq: 1268
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聚八圖右二十四子作三十二子用各積一百數攢九圖斜直周圓併中九各積一百四十七數黃鍾生五音歌黃鍾九九起宮音尋此三分損一真六九逢之生
+  hash: sha256:06c7138a8a41b3a574e0a2603b840f25fea505ef8dcfc7f65f10fc96e6990ba6
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:6c5b92f2696a1bd0399c3f690c88f36710e7d245a775d8063edada5fe6251a7e

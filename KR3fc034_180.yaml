@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/180
+seq: 180
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 挨身下原數隔位下此法原價是錢倍亦勢錢則倍數原數俱挨身下他做此九歸併除歌加雙下除倍加一下除原倍一挨身除餘皆隔位如有錢二千二百五十文給軍九十名問每名該若干舊法置錢二千二百五十文為實以軍九十名為原數另以九十倍之得一百八十名為倍數從實首起先於二千前挨身呼加雙下除倍身前加二身為除一千次位除八百退首位一次位加二共餘實四百五十次於餘實四百前呼加雙下除倍再呼加雙下除倍共除三百六十餘實九十却再呼加一下除原除恰盡得每名錢二十五文
+  hash: sha256:2dc2eb9dca066cacc7c7ee68a52110238245d4cc184fa0eaab608ce913312d24
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:8926f7f3420465e35151a2bfe8e543b4e38e27f56c29a255dd530820e8963aee

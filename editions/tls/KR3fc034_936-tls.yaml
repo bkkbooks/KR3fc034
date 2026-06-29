@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/936
+seq: 936
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十二兩二錢四分解義此則先乗後除法也先以共衰除實後以各衰乗之司法不若先以共衰除實得一衰之數各以分衰乗之數莟若畝餘實有零難尽宜以各衰乗折半差分法法俱挨次折半為衰二位者二一併二衰共得三衰三位者併三衰共得七衰四位者一三五六併四位共得一十五衰五位者十併五位共得三十一衰今有銀六百七十二兩令三等人折半分之問各若干舊法置總銀為實以甲乙丙併得七衰為法除實得丙該分銀九十六兩以二因得乙分銀一百九十二兩再以二因得甲分銀三百八十四兩加倍問織法今有織綃匠初日織甚次日加倍苐三日又倍苐四日
+  hash: sha256:9002b0599d958a640fdf239e417c81b465b99ecd0eb64222c26fd68d748e12b8
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:93eea8e6b96efa75af3d56a1548e6fe6c01bf994bc2804e963cfbfac48d2e65c

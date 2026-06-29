@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 络為汪渤云一梯字不省说數之不盡千百千億如是详之不腞详考如数之不于百千億而不一九十為則何洛為之祀如何具自一千之文大衍而上白考十十千考百十億考千之十之十修十存
+  hash: sha256:b930b08753a09fc2fdc24a10e4713063ee45fcab5c46aed36078db139adc2493
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:597ec02fa3420cc9e9db54b2f2165d4d248582db428aea68eae2f2c3873d06fe

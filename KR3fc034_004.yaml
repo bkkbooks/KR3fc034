@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 嵅肖分月月有分時分時分不和幾百千上億二大之簡雲之里十飯里積步肖尺寸兮不去幾百子測加快推萬億如而天省度如度地二千九百二十里零步二十地方形形圍岒一百雲千里
+  hash: sha256:1d395a1380452ac432b698f4a0ec3cf3a5f5c2a53528d51d692a78e87ad28064
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:fae91535b998fbe9f5b5a0bba842bad27e6180a068dd3057efd64c5c1941ef24

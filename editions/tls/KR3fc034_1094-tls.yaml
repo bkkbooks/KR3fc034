@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/1094
+seq: 1094
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 白下隱吏古齊陽丘睡足軒強恕居士李長甫韓著匿覆章此章備齊一零襍之法推隱徾難測之數閘幽探瞔盡乎變通拯深研幾達於神明誠數理之玄關為筭家之上術也貴賤匿價差分歌匿價差分法更奇差乗貴物減總宜另合貴賤除餘價得賤加差貴亦知今有銀一萬七千六百九十両買馬騾一千匹頭內馬七百匹騾三百頭其馬價多騾價七両七錢問價若干舊法置馬七百匹以多價七両七錢因之得五千三百九十両以減總銀一萬七千六百九十両餘一萬二千三百両以馬騾一千為法除
+  hash: sha256:63c32f4ab1ff0e498d200c6ec6a999ed0ca74eb52ee823e8ea90d01be6a46f5e
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:cd8b15771df0a5e322f41b94eba7a1c5637b7cba2d29da15bc6270a3371ac659

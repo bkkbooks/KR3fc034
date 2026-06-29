@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/90
+seq: 90
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七下七七下二起五成一十七起三成一十八下八八起二成一十九下九九起一成一十九因數一一如一一二如二二二如四一三如三二三如六三三如九一四如四二四如八三四一十二四四一十六一五如五二五得一十三五一十五四五得二十五五二十五
+  hash: sha256:76ea2d8e0d278161e1605831d96fa8b684455bdf1271ac6e7046fbab03ad65a1
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:eb6ace3421a9e180eb9a4f0c3316fd6b240be6a245c11cafeaed6a2f57ddfe42

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 應而一九二八三七四六五隅立對十未常不存乃筭則去十困九考十考百二一百考千一考億一位以十住斯上何圈以效洛九筭儿如是存不欽于百千億之無窮则不知筭之大無佃無内猎戧鼉写
+  hash: sha256:e33aa5ecb7eb74cfe44b5141b24bd6c970a7b838fcc175ac2aedd3f5e34da6f6
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:68de6e37d63b0a4c2a79ab296c49b065ac6f4463561ec549bb75afe12ec188e7

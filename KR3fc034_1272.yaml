@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/1272
+seq: 1272
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 律呂相生圖歌曰律呂相生識者稀黃鍾九寸是根基隔八生陰三損一陰律生陽蓋一奇黃林奮檜皆全寸餘者通之更不疑俱用九分乗見積四時氣侯配攸宜以上黃鍾大簇姑洗蕤賓夷則無射為陽大呂夾鍾仲呂林鍾南呂應鍾為陰黃鍾屬陽空圖九分律長九寸以九分因之得積八百一十分其候冬至陽律生陰之法卻將九寸以二因之得一十八寸三歸之得六寸隔八下生林鍾
+  hash: sha256:36023be0180f86a28b1fd63844c1b183ac680841d1b80af0974da23365a31b77
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:865305d0a3694101087f1f954336a3edd9599aacd0906b79e9d1e39388a46a2b

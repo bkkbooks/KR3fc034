@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/612
+seq: 612
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 啇六步積二百一十六步起至三百四十二步止啇七步積三百四十三步起至五百一十一步止啇八步積五百一十二步起至七百二十八步止啇九步積七百二十九步起至九百九十九步止啇十步積一千步起至七千九百九十九步止啇二十步積八千步起至二萬六千九百九十九步止啇三十步積二萬七千步起至六萬三千九百九十九步止啇四十步積六萬四千步起至一十二萬四千九百九十九步止啇五十步積一十二萬五千步起至二十一萬五千九百九十九步止啇六十步積二十一萬六千步起至三十四萬二千九百九十九步止
+  hash: sha256:bf063cafbc24a606cb28c2891ac2631a4134deb0dfa93f67fded08efba2bdef0
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:218f5099285863ce818a0ac8833842f97c0ace8b9fd0f4f65b672791f483ec97

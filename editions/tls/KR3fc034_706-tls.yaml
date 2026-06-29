@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/706
+seq: 706
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 通法有無中心皆同解義以積問周即以周問積之法還源問積用乘法者問周即用塗法同積用法者問周即用乘法問積用自乘問周即用問方問積用相乘問周即用帶維皆之照法還源征觀問積之法即淂問周之由拙翁論日方東方畆每一面計之皆三數積俱三三得九以外周論則束實畆虗束従個物計數目四角皆除根田從外圓計尺數四角皆連根每角皆二西作數四角共有四虗數然方田以一西自乘得本積方周係四方西自乘四四扥一十六個積故用十六為除率方束亦做方田
+  hash: sha256:688fc9dfbf06cc798071ce00302c02a602bf3e29c3b4d77acd74cfba11fa62e0
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:883cdc99b8e2b2ec2f924b245a0b81320b77fc7e8156f6cfa4a916d21ba032da

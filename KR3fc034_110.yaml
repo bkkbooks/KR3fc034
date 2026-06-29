@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/110
+seq: 110
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 兩七錢五分也因歸總歌歸從頭上起因從足下生逢如須次位言十在本身因法單位曰因九九數單位者俱用此乘法單位曰因位數多曰乘通而言之乘也置所問為實以所求為法皆從實末位而起呼九九相生之數如法次第乘之呼如須在次位言十就在本身凡因乘不必拘於法實或以法乘實或以實乘法皆可惟歸除不可顛倒錯亂升積用乘法凡以二為法便一倍乘作二倍以三為法便一倍乘作三倍然其數雖升而位反降必須詳定位之法求之減積亦用乘法如十分之八即置原實以八乘得數十分之七即置原
+  hash: sha256:110dc12e47d98aca56410588f89f62f6c79a7ccc1cc2461f088ec7cfc348a298
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:e6eefaa558bf35828e85d9c4c877903be50bf1f4f998e6cc8587d742f4d174b8

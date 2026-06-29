@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/1256
+seq: 1256
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九九圖十一五六四七十六六一五二十五六十五一七四三八二七九四三七七八四二六二九二十六五三四二五七十三三二四六九十八六三五四十四五九五十十五五四六八一四五九七七四一五七三三七一三六二七七二三二三三六八二八十九六四十三五八四九十二五七四八十七六二五三七六四十四七五三九三八十四四八三一二二六七三十二一六六三五二六七一求積法首數一併末數八十一共八十二以八十一乗之得六千六百四十二折半得共積三千三百二十一以九行為法除之得縱橫斜角皆三百六十九數
+  hash: sha256:9efef474ab80c1701f7d3066685436d953aa3cad05fa29e226a216e4ce0b0141
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:8d1cefb75f1d7c918f3c3132b6c7e55be4ffb9ef122fef806c0ff9f79de61423

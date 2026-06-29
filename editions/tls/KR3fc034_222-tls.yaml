@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/222
+seq: 222
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 白下隱吏古齊陽丘足軒強恕居士李長茂拙翁甫輯著軌區章此章四疇之形狀極積實之尋廣縱截割互明折併減增各異以五容較其分數以毫釐分共細微區畆詳盡斯篇諸法由此原本丈量田畆總歌方田自乘積步明宜田長澗以相乘圓田乘求有便法周徑各半適其中徑乘七五乘再加三因四歸法一同周徑相乗四歸得乗歸同法碗丘名澴田內外周相併折半乘以徑步行弧矢弦長加矢步折半矢乘積實呈
+  hash: sha256:82b3c613d1635e5fe531a986162005f5b0110106fc5cac287075d4835f15d2bf
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:24f77256b2dc21f5f558bb26548619a0e1054bb9dc8de8f09c933cbd8f8e5bec

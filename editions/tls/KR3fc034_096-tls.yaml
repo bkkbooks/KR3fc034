@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/96
+seq: 96
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七一下加三七二下加六七三四十二七四五十五七五七十一七六八十四逢七進一十八一下加二八二下加四八三下加六八四添作五八五六十二八六七十四八七八十六逢八進一十九一下加一九二下加二九三下加三九四下加四九五下加五九六下加六九七下加七九八下加八逢九進一十右法與上九因數易於相混學者湏熟讀二法惟辨多數在先少數在次即九歸之句如八六七十四八在先六在次是歸六八四十八六在先八在次是因之類是也
+  hash: sha256:9d4e59b55c92c7e758a070e6f8ffbccd356e7b5134657f2b10c767a4f34062c4
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:a7d683346a6d18af7f055378e9728f70d579ad2bb1cf77ebea0eed67e004aeb9

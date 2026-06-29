@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/54
+seq: 54
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 筭書源流本末軒后始命數有作笶法宋元豊七年刋十書於秘省刻於汀州学校黄帝九章周筭法五經筭法海岛筭經孫子筭法張丘建筭法五曹筭法緝右筭法夏候陽筭法筭術拾遺元豊紹與淳熙以來刋刻多家古根源益右筭法証古筭法右筭法古筭法明源筭法金科筭法南筭法庶用筭法曹庴筭法賈九章通徽集
+  hash: sha256:c4f136b8cb51854ab19608a45f0d9fc216d821f805bd4ca4b69a0720480ee562
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:d054130055b88c2bcf29833905bb470d8cb630e79205ad0e5df700d8a9fb10c6

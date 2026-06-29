@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/32
+seq: 32
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子乎而無比數窶然一身旅羈千里金閣可問長盡難消用的算家言淦次誠帙額曰算海說詳或曰算鋞術數多勾股一法測髙御遠攻而守大用寓馬且財賦考橋誷了兹册不聞治不龜手之藥者孚不龜手之藥尚可展用曷酌之余
+  hash: sha256:aa4fe90366f284c1b798d4165fa22b69b27fb0f80d288d07c0ca1536ab91eab3
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:c0d9a6c25bd30fb9a2bef1ef6e492a257a9e222cd420fe8f6dc84912900a1897

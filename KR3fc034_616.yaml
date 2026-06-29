@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/616
+seq: 616
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有主方積三千三百七十五尺問西方若干舊法置積三千三百七十五尺為實於中約實千尺定十尺初啇一十於左亦置一十於右為下法自乘得一百再以十乘一百得一千尺除實訖餘實二千三百七十五尺卻以三因初啇自乘得三百為西方平亷法又以三因初啇一十得二十為亷長次啇五尺於左初啇一十之次下法亦置五尺於右即以次啇五尺乘三亷長三十得一百五十為長亷法又以五尺自乘得二十五尺為隅法併平亷三百長亷一百五十隅法二十五共四百七十五尺皆與
+  hash: sha256:c659bb12aeef9ff3b76250a5cf9e235d8cab80b3ea151a1ae3321c3c28544def
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:5cb1d2eb848317fe1786494b57795b6de130759d30067d4c1fd41fff6a28254d

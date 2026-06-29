@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/1246
+seq: 1246
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五數四四圖一二三四五六七八九十十一十二十三十四十五十六易換四四圖十六二三十三五十一十八九七六十二四十四十五一易換衍曰十六子作四行排列先將外四角對換一換十六四換十三次將內四角對換六換十一七換十換畢縱橫斜角皆積三十四數即下圖是也求積法以始數一終數十六併之得十七以十六乗之得二百七十二折半得共積一百三十六以四行為法除之得縱橫斜角皆三十四數若內外四角不動換易四靣八位亦合
+  hash: sha256:ab60848fd6c4818d9e2c85a6238cb14e35d3890c1a5337ead678ced973be8a29
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:466a5af71af110ff094d08bc19add83a53b81416879ea626999cd87fc539e786

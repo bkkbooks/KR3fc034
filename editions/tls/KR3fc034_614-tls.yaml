@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/614
+seq: 614
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 啇七十步積三十四萬三千步起至五十一萬一千九百九十九步止啇八十步積五十一萬二千步起至七十二萬八千九百九十九步止啇九十步積七十二萬九千步起至九十九萬九千九百九十九步止啇一百步積一百萬起至七百九十九萬九千九百九十九步止開立方法歌立方之法要推詳自乗再乗始初啇三因自乗西方法三因初啇三亷長次啇又乗全亷濶次啇自乗隅法當合併三法次啇乗積餘再啇以此啇
+  hash: sha256:8830e78f9ab6f7428b44d854646a7c10079c551f784df14f74ea1c7bdcdc44ef
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:29b3440975fd98292cd047b2e4ee17a37cd19d277b67abb7d00503bb654b6690

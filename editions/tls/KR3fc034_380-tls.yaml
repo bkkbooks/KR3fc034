@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/380
+seq: 380
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 多補缺或取勾股圭角矢寺形以法求之故併列諸圖使人知聽較下皆類此解義各圖通是一理無非以盈補缺尚遇出遇多只須多分片自可推凖無
+  hash: sha256:1637ae7639da062e55fadafdfc0d03686a70be566cc63b0b94bbdf55ffb2e619
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:5c315f1a0266e5e34dbd6c0596820b49b9e3cd481fee69297101ee0d84ab9ca7

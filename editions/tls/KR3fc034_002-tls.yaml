@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 筭睿汝字曰睿或曰汝之慈迊吞卷涵嵨拯珎貝之怪竒像異西次日霊之絮浩探之奠可应放之所筭眇術爾立為法讀考能曾為骇習絮能祀鳥乎汝曰唯唯年怒
+  hash: sha256:a2f2ddb5fb949ce611611ff42076b4416aa3e371a6bc4504766e110b61876201
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:43531f1f2e870cbaab3cebf6e393a5c52c5c086a6c7cf2bbd9eb6e39bcee4506

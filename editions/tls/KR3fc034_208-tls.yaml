@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/208
+seq: 208
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三分川又加四分作又加五分五去五進一千前位存刂又加二分加連原存二分作㐅二錢刂又加六錢作又加八錢八退二進一加下位進一作又加九錢九退一進於前存丄一兩丨又加二兩作川又加三兩又加下位進一作又加四兩四退六進一又加下進一作刂左起下位進一作丨暗馬因乘法如有米五十三石二鬥每石銀六錢四分問該共銀若干舊法置米五十二石二鬥自左而右橫列為實以價六錢四分為法乘之左行川二行㐅三行空四行㐅五行得共價銀三十四兩零四分八厘法四分六錢起二四如八作二六一十二上伍二作丨本位作刂呼三四一十二前位加一本位作㐅
+  hash: sha256:69658c2df4a0c510a10ab1f7e052313a01b1021886c4b678dc1acbfbc2c0f65d
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:3ac00320a078c10f25cba636c4f00b8d6bdc5b37a46af6effa6c052e2ef98731

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/42
+seq: 42
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第三章勾股章勾股弦相生各義解共十二條勾股求弦勾弦求腹弦求勾法共八條以較求勾股求弦法共五條餘勾餘股求股弦共七條表竿求高深遠法共七條以和求勾求股求弦法共五個條以較和求勾股弦法共四條孫子度影量竿法計一條第四卷開方章開方商除方廣隅總解計一條開方求亷率舊圈計一圈開平方初商定首位數共十九條開方算盤定位圈計一條方亷隅開方圖解共二條歸除開平方法計一條不用亷隅開方法共二條大小方併積圖解共二條
+  hash: sha256:e58f8643cf3fa7f670616df49f9f83144b16232243d145f7f1b1d87395de2540
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:021eba4f20fb4d29c837570dd56a137a1b1bb6612748e36d76d60a8afd607b68

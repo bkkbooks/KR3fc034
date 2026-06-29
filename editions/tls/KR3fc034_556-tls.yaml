@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/556
+seq: 556
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 白下隱吏右齊陽丘陵足軒強恕君士李長茂拙翁臀獸開章節此章以平方求方面以平圓求圓徑以帶經減經求直長瀾以一乘再乘求立方立圓以一乘再乘三乘等求立方立圓之績高開方興勾股法相為表乘乃諸數借為棍賣誠笑家可冗考究開方總解平方即方面自乘之績還源曰開開方者開四面而成方也共法有初商再商三商四商不等以商除績盡為定商者約撂之意乃量績數多寡而約各定方百則下十萬則下百之麥是也初商是方法次商以後用亷法隅法方法者先約各績可以四面成方者左定一
+  hash: sha256:00458fce9f75c23a9f8b44c1fbcd71a4224f2bcf3e6b3cddd5bece5563436c3b
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:2e17cd7cad0687e00aeab4c75e76076d4ac2183c2a419311225b398e7daaa0e8

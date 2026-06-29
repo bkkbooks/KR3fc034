@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/166
+seq: 166
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子分母以母就子子母約分命法謂如數有畸零難盡則以子母對减互除至子母數同就以此數除積得若干分之幾以此命之帶縱除法縱者長也如長濶不等止言長多濶若干共積若干問長問濶即置積為實用開方法帶入縱長以合本數减積除法即上帶縱法但帶縱是帶入法位隨法呼除减積是浖多若千數於法外另置位每呼除則以實先除多數於積內後法實相呼另除减縱除法如長濶不等不言長多濶若干止言共積若干長濶共若干問長問闊此無多若干可帶除故用减縱法酌量减除至於恰盡以得
+  hash: sha256:f11c3e8f418322475d55683910bd3e12698ef1badc0f104c800e3f98bd230c8d
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:758c0317afc5df13db3391d36e6c303cd161421b8d0e8fe6b3e4d8b9b745c97f

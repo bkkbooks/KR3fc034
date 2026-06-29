@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/48
+seq: 48
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以銤求積問年法計一條加瑀求物物求法共二條煎錬金銀銅法共六條丈尺較長短僩狹法共四條求糙求熟稅後正鈍抽分哥月等法共八條買易均平價物等法共五條計本計年月日問利法共五條放債計年計月算本利法共二條挨次異賞異鈔求積法共二條第八卷聚分章合率貿物走糧計工等法共五條剝淺納稅糧合率法共三條大小木積率問價法計一條二八三差分合率法共二條三七差分合率法計一條四六差分合率法共二條折半差分合率法共十條遁减挨次差分法共八條
+  hash: sha256:94c90d83e7161f756de5088f579fb5e29544d1d39da16832502644ce04001bfe
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:b69bdae6a0f0d2757925dd87b3d5389aabec6c478bcbdbca8295625b6f892652

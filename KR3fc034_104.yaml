@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/104
+seq: 104
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 少原實降下數法前得令逆上知又歌乘從每下得術歸從法前得令定因乘位乘從每下得術術者乃法首位每下該得之名也先將算盤寫定萬千百十兩錢分厘或頃畝分厘石斗升合之類因乘完從實原首位起往後順數至法首位之數則止却於下位得法首每該之數是兩呼兩是石呼石是錢呼錢巳上十百千萬巳下分厘斗升如有田一百四十五畝每畝科糧四升六合即以田為實以每畝四升六合為法乘實此實首是百法首是每畝四升六合即從實首數百順數至畝位就於畝下位得升向上以畝變斗以十變石以百畝變十石向下以分變合以厘變勺之類是也
+  hash: sha256:fa7a2e40d94ea3b112501ada7c424821275c7ef8e46543fb99b0262e6ceee0e5
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:6db931b93d96340d62b8deca8324676fd25e609d3515ad177ecb57bc85ec1ab0

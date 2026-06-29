@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/1262
+seq: 1262
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 八陣圖如截坎之東四子艮之西四子亦成一陣之積截艮之上四子震之下四子亦成一陣之積凣半面四子各積一百三十両陣各取半面四子合而俱成一陣計積二百六十而無強弱不齊之數
+  hash: sha256:01ff1f2630c1ca0979c30b23812d47533c391896c517e35d1aaf3514ec630b2d
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:e573d2f9634d3c972dc6c3a52d9dc65184ba728922f9e7d6b833df1d0936a085

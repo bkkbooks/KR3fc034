@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/54
+seq: 54
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 算書源流本末軒后始命數有作笶法宋元豐七年刋十書於祕省刻於汀州學校黃帝九章周算法五經算法海島算經孫子算法張丘建算法五曹算法緝右算法夏候陽算法算術拾遺元豐紹與淳熙以來刋刻多家古根源益右算法證古算法右算法古算法明源算法金科算法南算法庶用算法曹庴算法賈九章通徽集
+  hash: sha256:6f2564838223dca190eabddf2c2a99097c08ad36a9ea87b309a29dbf3198307a
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:1619b9d9563460a843c1af5d362b1527391afb4d2e9958ee93b84b20d581cec1

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/50
+seq: 50
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五和减中挨次量分法共四條六折差分合率法計一條七折差分合率法計一條八折差分合率法共二條八陳相生求來積法計一條八倍連除本問利法共二條貴賎輕重少疾差分法共八條貴賎變位相和問傷物法共六條五等貴賎夑位相和問價物法計一條多少相和問物法共二條帶分子母差分法共十二條通分子母差分法共九條約分子母差分法共三條第九卷酉覆章貴賎匿價差分法共六條輕重匿數差分法共二條多少匿數差分法共三條匿數因稅知價法計一條
+  hash: sha256:5646899c205b229118215bb51fc8ff91f849c8906ed037c90ff19d21796fc14d
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:4be32bb8ebd1176d0877c9dfb0c0592b6f5581e541affc2fa5543ccf07a1f3e1

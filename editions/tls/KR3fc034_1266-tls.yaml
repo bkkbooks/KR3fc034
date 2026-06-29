@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/1266
+seq: 1266
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故曰連環九陣化十三陣九宮計九陣內中四空相合包四陣共十三陣也凣排法始坤次離次異次乹次坎況艮次兌次中次震道一數起毎宮二子挨次排去至震又挨次逆回至坤再順回至震又逆四至坤完畢毎排二子俱相對安下首離坎位次異乹次兌震次坤艮逆上層自右而左排完即接排下層次排中層上下層一例中層一例如上下排二子先上後下中層即先下後上相反是也聚五圖二十一子作二十五子用五圖各皆淂積六十五數聚六圖
+  hash: sha256:3711f092a425b9e365b7e4c344c235aa94bf2d92db303dd89476bea5c992c960
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:c8b4e147aafcce0d8711b1f545cd92431e36d71bb5f22479dd327e99f5df7c3a

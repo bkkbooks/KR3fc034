@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/80
+seq: 80
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十寸爲尺十尺為丈十丈為引黃鍾生量黃鍾之管其長廣容秬黍中者一千二百粒為一勺十勺為合十合為升十升為斗十斗為石黃鍾生衡黃鍾容千二百黍為勺重十二銖兩勺則二十四銖為一兩十六兩為斤三十斤為鈞四鈞為石黃鍾生律黃鍾之長九寸空圖九分積一百一古分是為律本十一律由是而損益馬解義大尺升斗斤兩皆不外黃鍾生法有一定但後世時制增戒古今不同各圖時宜以定法可耳大數一數之始十十箇一為十百十十為百千十百為千萬十千為萬數之成也
+  hash: sha256:ca4d7679aae1b06f0de377a2c0667be5cb7bdd176171dffe07a5f24b2be64013
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:291f7f974bbddf2483957552ad7b2a04ff17412aaa298be42d1cb4851ecf78b1

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/1264
+seq: 1264
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九宮連環陣求積法併首一末七十二共七十三以七十二乗之得三千二百五十六折增得共積二千六百二十八以九為法除之得毎環八千為一陣各積二百九十二子多寡相實隣壁相兼此九陣化一十三陣見運用之道也解義毎陣直分一半四子橫分一半四子皆一半積一百四十六子彼此一半相合皆成一陣之數
+  hash: sha256:18669ea6cff100b650c605a5dfd12d7d6cf0e47ea8a792e6131d8c67e0dba3d6
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:217ec69058077156a82282ee706818ecd40039f291aa5463446d28570a72133e

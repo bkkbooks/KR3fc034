@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/88
+seq: 88
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 錢鈔名數錢鈔之法謂之文一文之上有十文百文千文為一貫五貫為一錠一文之下亦有分毫絲等數九積數一下一一下五除四一起九成一十二下二二下五除三二起八成一十三下三三下五除二三起七成一十四下四四下五除一四起六成一十五下五五起五成一十六下六六下一起五成一十六起四成一十
+  hash: sha256:9b90198159d423bf12ee31cc831a4b6732a77626f2a6320d89e9fe3c4e5b54f1
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:2e57ad4482a3c482ed8fd8327f2891272fe401bb50a78bceff3b11d89eefdae1

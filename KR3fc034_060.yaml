@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/60
+seq: 60
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孤弦術嘉靖壬子頑暮溪作無乘除算林柭萃隆虔壬申能宛陵太邑楊淳作一鴻算法萬厝甲申銀邑余秸作庸章算法萭厝戌子新安朱元璋作算法統宗萬厝壬辰新安實渠程大位作
+  hash: sha256:175a861efd64fe34c04d1b79070d407057675b33071d819a9851323a55cc96d5
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:7cb845468eae917b4e3fa9fbb220caab1c4a8ac846f653c962afd60c5bebd2fa

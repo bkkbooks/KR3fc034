@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/1092
+seq: 1092
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 除子母原數卻無畸零所謂齊不齊而致其齊也今有絲二百五十二斤賣過一百四十四斤問分數若干舊法置母二百五十二減去子一百四十四餘母一百零八反減原子一百四十四餘子三十六又用減餘母一百零八減去二個三十六餘母亦三十六就以母子同數三十六為法除原母二百五十二得七除原子一百四十四得四約曰實過七分斤之四又法今有鴨七十二隻生子六十三個問分數若干舊法置母七十二減去子六十三餘母九即以減原子六十三減去六個九餘子亦九就以九為法除原毋得八個九除原子得九個九約曰八分之七筭海説詳苐八卷終
+  hash: sha256:3699bda5b9c12ee6b775fda5cd15b2566cbf3a4928afe88087f1d6abbd779fbe
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:3850e63db26b365f87bfcf7e7f4264428f5628ee69e302a5bc84c68230a86aa0

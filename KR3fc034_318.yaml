@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/318
+seq: 318
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方法除之得截中周四十二步以內周二十四步減之餘一十八步以六除之得截徑三步解義環田外周內周折平以徑乘淂積優梯田大濶小濶折平以長乘之淂積故環田截外截內與梯田截大濶小濶同法解俱詳梯田截積下弧矢田求積求知弦歌弧矢求積矢加弦折半矢乘得積全積矢求弦倍田積矢除減矢弧弦然積弦求矢積亦倍帶弦置縱開方宜今有弧矢田弦長一十三步矢長六步五分問積步若干弧矢舊法置弧弦一十三步加矢六步五分共一十九步五分折半得九步七分五厘以矢求積圖乘之得積六十三步三分七厘五毫又法置弦一十三步以矢
+  hash: sha256:70744a1d4db6e7237dcbe9be5e10c3a93ffa0eb67c5283ddc97715d849671c73
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:536ce0dfbfec5cfc1aeb9ab06579562fa805dabd020728e8218b61c405e17cee

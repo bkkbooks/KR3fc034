@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 算多藏汝手不欽于百億東九十為家則不知數弓約網法大源獵逐湖瀏而宇天上李又寫算墨存汝手筮尤省說數省度鑒權衡法省益減不反固歸隙我而測遠測髙聖度新闡
+  hash: sha256:bb063a6e85a96c26f57eadb00a50b2dcaccb82e097cb9c6d25df2d3f3ceb5fde
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:e1f0b7672872aee5f203b5f77290b04e109ca169f4e872f8174b2e26a169fdb3

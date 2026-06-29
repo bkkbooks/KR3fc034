@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 零二百每步合天包之三百六十每度四度之莫髙山乙不可墨而葛可丞山莫涵淵乙不万測而深互淵尖欹角多寡重省不齊之零不省一物卬具一省一飛即具一數又不知幾汪渤之一乎不接
+  hash: sha256:a3caba78066bd34ae1d7d7745230f321aeed7c75d0435b98c9d83da99e51f285
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:116516758629685902574454df923344c5b14a57dde15c20f6c3f311b5f0ce77

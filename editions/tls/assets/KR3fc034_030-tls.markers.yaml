@@ -1,0 +1,28 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/markers/30
+seq: 30
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc034_tls_001-p8.s8}
+  - {type: line-break, offset: 0, content: '', id: KX_8_dup7, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: punctuation, offset: 0, content: □, id: KR3fc034_tls_030-bkkpn1}
+  - {type: punctuation, offset: 11, content: □, id: KR3fc034_tls_030-bkkpn2}
+  - {type: punctuation, offset: 12, content: □, id: KR3fc034_tls_030-bkkpn3}
+  - {type: 'tls:seg', offset: 14, content: '', id: KR3fc034_tls_001-p8.s9}
+  - {type: line-break, offset: 14, content: '', id: KX_9_dup7, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: punctuation, offset: 16, content: □, id: KR3fc034_tls_030-bkkpn4}
+  - {type: punctuation, offset: 25, content: □, id: KR3fc034_tls_030-bkkpn5}
+  - {type: 'tls:seg', offset: 27, content: '', id: KR3fc034_tls_001-p8.s10}
+  - {type: line-break, offset: 27, content: '', id: KX_10_dup7, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg', offset: 42, content: '', id: KR3fc034_tls_001-p8.s11}
+  - {type: line-break, offset: 42, content: '', id: KX_11_dup7, _xml_error: duplicate-id, _xml_original_id: KX_11}
+  - {type: punctuation, offset: 56, content: □, id: KR3fc034_tls_030-bkkpn6}
+  - {type: 'tls:seg', offset: 57, content: '', id: KR3fc034_tls_001-p8.s12}
+  - {type: line-break, offset: 57, content: '', id: KX_12_dup7, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: punctuation, offset: 72, content: □, id: KR3fc034_tls_030-bkkpn7}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR3fc034_tls_001-p8.s13}
+  - {type: line-break, offset: 72, content: '', id: KX_13_dup7, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: punctuation, offset: 73, content: □, id: KR3fc034_tls_030-bkkpn8}
+  - {type: punctuation, offset: 84, content: □, id: KR3fc034_tls_030-bkkpn9}
+  back: []
+hash: sha256:1c28201d93a80d09b43e00bf6f0ad4abdb4b58ef677ab9823690b3ffee5c4a7b

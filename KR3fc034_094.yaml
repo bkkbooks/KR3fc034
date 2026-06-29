@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/94
+seq: 94
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 訣曰遇十身上違如下位加法皆小數在上大數在吹須熟記九歸歌歸法用此一歸不須歸其法故不立二一添作五逢二進一十三一三十一三二六十二逢三進一十四一二十二四二添作五四三七十二逢四進一十五一倍作二五二倍作四五三倍作六五四倍作八逢五進一十六一下加四六二三十二六三添作五六四六十四六五八十二逢六進一十
+  hash: sha256:c9f8270e562aa9294130d10543a3ed54097d16ae85e3b99716e60bd35fa73c26
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:721f3ea716580f3d6598d94fab6285b7285032b5c14b7f47910c5e31e49d6251

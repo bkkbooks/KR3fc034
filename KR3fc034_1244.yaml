@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/1244
+seq: 1244
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 附洛書衍數圖洛書圖二七六九五一四三八洛書之數戴九履一左三右七二四為肩六八為足縱橫斜角皆十五數因衍為四四五五六六以至百子各縱橫斜角皆同一數圖各列後易換三三圖三二六一五九四八七易換術曰九子斜排上下對易左右相換四維挺出先以上一對換下九次以左七對換右三換畢將四維二四六八挺出平直到三行即前圖縱橫斜角皆積十五數求積法併上下數一九共十以九乗之得九十折半得共積四十五數以三行為法除之得縱橫斜角皆十
+  hash: sha256:696c30dd92e2a32870035879b45ceb79bce29f727dda00d329eba613195b30fd
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:43e28b5fc9b3d451d745c24a965d0b4e2b54259bc053c4ce269d795b76908ee3

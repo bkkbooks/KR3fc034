@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/510
+seq: 510
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 高如股以多二尺為股弦較二數相乘得八尺倍之得一十六尺以開平方法除之得四尺即弦和較加多豎之二尺得門廣六尺加多廣之四尺得門高八尺全加多廣多豎共六尺得竿長即門斜十尺餘股求股弦歌餘股之法理冝明勾自乘之除法行餘股即為股弦較加減折半總相同餘股求股長弦長圖今有牆高一丈有二木齊長斜倚一木於牆木杪與牆頭齊卻將木一根平臥於地木根抵牆根腳木杪則過斜木一尺問木長並去牆若干舊法置牆高十尺為勾自乘得一百尺以過斜木根一尺為股弦較除之如故得一百尺加較一尺共得一百零一尺折半得斜木如弦長五十尺零五寸減臥木過
+  hash: sha256:fe8bc605dc74ee0b6342523fca6c0daea289c36c76ab75450b2290debb298396
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:10ab8afe2db39f8fee3e931bbb7e2df840107f398c8cb2905fc404d4f2d32541

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/1286
+seq: 1286
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 多餘數逢雙是女隻生兒今有孕婦行年二十八歲八月有孕問所生男女置四十九加孕月八共七減年二十八餘二十九減天除一地除二八除三四時除四五行除五六律除六七星除七不盡竒為男偶為女也如數多再以八風除八凣一三五七九皆竒二四六八十皆偶筭海説詳苐九卷終
+  hash: sha256:f11ff451a6f2ec6e662615cac61f9df7bcc8cbd12c51bf1a7cdc820e1d73fe77
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:4d2b09a46a9964d28a7cabbdc47aed20599b83eb0a5c5becb324740f5941abb7

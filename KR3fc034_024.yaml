@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遂被倫爾乃柎齊浩渭盾無用遇多永作放可耳自是罹棄詩書日於六壬上諾家言并彚輯易筮數册不作出戶客有謂余者曰久兹自為乃矢髮立堂而寸榮未披乃書債何余瞿無以應爰再馮臂于
+  hash: sha256:66256699012a4433de5f08147ddc428cf7c5240925fa1165d4799b1d4700240f
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:7bb83c8de630cc93c80a277e97ca20482fa6e02461084b259d7271dd1c863ee2

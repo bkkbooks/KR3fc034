@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/154
+seq: 154
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二分乘則得十分之二二釐乘則百分之二又不可不明也自乘再乘法謂法實數同相乘得數再以原數乘之凡取方則用自乘立方則用再乘或三乘四乘以次求高皆可漸加互乘法謂如多位參差不齊則分列行位彼此遍乘交互取齊或得一物本數或得差數平數乃互撤取平之法也對减法謂如貴賤輕重多寡各類參差不等或單乘或互乘所得之數或與原數對减或兩數互减俱用减去一宗乃可求出一宗是也合併法謂如自乘互乘得數兩邊不一應對减則以一數减一數應合併則二數合用各因所問立法以合本數維乘法維乘相維互乘謂如位則多等各異不齊如有四有五有六
+  hash: sha256:d2798687538cbe298dd3bcc5cad4feb06b74c72d7aa58e5be2b81f9a02cecfc2
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:4e45dce74f49f1479420cc57b31ed1b3e2d726fe5165708ff5c1e744d30a5465

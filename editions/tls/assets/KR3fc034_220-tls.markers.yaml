@@ -1,0 +1,27 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/markers/220
+seq: 220
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc034_tls_001-p57.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup52, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 26, content: '', id: KR3fc034_tls_001-p57.s2.1}
+  - {type: line-break, offset: 26, content: '', id: KX_2_dup55, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg-start', offset: 28, content: '', id: KR3fc034_tls_001-p57.s2.2, seg_type: comm, member_ids: [KR3fc034_tls_001-p57.s2.2]}
+  - {type: 'tls:seg', offset: 28, content: '', id: KR3fc034_tls_001-p57.s2.2}
+  - {type: punctuation, offset: 39, content: □, id: KR3fc034_tls_220-bkkpn1}
+  - {type: punctuation, offset: 47, content: □, id: KR3fc034_tls_220-bkkpn2}
+  - {type: punctuation, offset: 48, content: □, id: KR3fc034_tls_220-bkkpn3}
+  - {type: line-break, offset: 49, content: '', id: KR3fc034_tls_220-bkklb1}
+  - {type: punctuation, offset: 67, content: □, id: KR3fc034_tls_220-bkkpn4}
+  - {type: 'tls:seg-end', offset: 72, content: '', id: KR3fc034_tls_001-p57.s2.2_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR3fc034_tls_001-p57.s2.3}
+  - {type: 'tls:seg-start', offset: 72, content: '', id: KR3fc034_tls_001-p57.s3.1, seg_type: comm, member_ids: [KR3fc034_tls_001-p57.s3.1]}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR3fc034_tls_001-p57.s3.1}
+  - {type: line-break, offset: 72, content: '', id: KX_3_dup54, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg-end', offset: 80, content: '', id: KR3fc034_tls_001-p57.s3.1_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 80, content: '', id: KR3fc034_tls_001-p57.s3.2}
+  - {type: 'tls:seg', offset: 80, content: '', id: KR3fc034_tls_001-p57.s4}
+  - {type: line-break, offset: 80, content: '', id: KX_4_dup53, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  back: []
+hash: sha256:6db0dd00405f66b6e9e540bc9c710f493b4b1ede5bc2d2c044fa8574a8d27ec1

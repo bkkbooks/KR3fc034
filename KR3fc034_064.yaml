@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/64
+seq: 64
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物或列多等貴賤輕重多寡近參差不須因數别等隨差立法故衰分章次之著多位參差等分桗或多或寡魚盈兼歉法問彼此立形區數待椎有同射覆算至此鈎深索隱研幾通至矣書矣故以區覆章終馬外著諸家多有發明正法未尚者類分列各章以便考重者不録别有算則附録九章之末
+  hash: sha256:d079f4d7ebf79572a67e6b59917bd5f59dd57a684f156401abde2fce15c29abe
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:cae8eda5fb21e4c5698f536737bd2209df329ecbe4160df44141c7c551b2c1fe

@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/markers/28
+seq: 28
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc034_tls_001-p8.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup7, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: punctuation, offset: 6, content: □, id: KR3fc034_tls_028-bkkpn1}
+  - {type: punctuation, offset: 6, content: □, id: KR3fc034_tls_028-bkkpn2}
+  - {type: punctuation, offset: 11, content: □, id: KR3fc034_tls_028-bkkpn3}
+  - {type: punctuation, offset: 13, content: □, id: KR3fc034_tls_028-bkkpn4}
+  - {type: 'tls:seg', offset: 13, content: '', id: KR3fc034_tls_001-p8.s2}
+  - {type: line-break, offset: 13, content: '', id: KX_2_dup8, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: punctuation, offset: 13, content: □, id: KR3fc034_tls_028-bkkpn5}
+  - {type: 'tls:seg', offset: 28, content: '', id: KR3fc034_tls_001-p8.s3}
+  - {type: line-break, offset: 28, content: '', id: KX_3_dup8, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: punctuation, offset: 35, content: □, id: KR3fc034_tls_028-bkkpn6}
+  - {type: punctuation, offset: 36, content: □, id: KR3fc034_tls_028-bkkpn7}
+  - {type: punctuation, offset: 40, content: □, id: KR3fc034_tls_028-bkkpn8}
+  - {type: 'tls:seg', offset: 41, content: '', id: KR3fc034_tls_001-p8.s4}
+  - {type: line-break, offset: 41, content: '', id: KX_4_dup7, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: punctuation, offset: 48, content: □, id: KR3fc034_tls_028-bkkpn9}
+  - {type: 'tls:seg', offset: 56, content: '', id: KR3fc034_tls_001-p8.s5}
+  - {type: line-break, offset: 56, content: '', id: KX_5_dup7, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: punctuation, offset: 66, content: □, id: KR3fc034_tls_028-bkkpn10}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR3fc034_tls_001-p8.s6}
+  - {type: line-break, offset: 72, content: '', id: KX_6_dup7, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: punctuation, offset: 75, content: □, id: KR3fc034_tls_028-bkkpn11}
+  - {type: punctuation, offset: 75, content: □, id: KR3fc034_tls_028-bkkpn12}
+  - {type: punctuation, offset: 76, content: □, id: KR3fc034_tls_028-bkkpn13}
+  - {type: punctuation, offset: 78, content: □, id: KR3fc034_tls_028-bkkpn14}
+  - {type: punctuation, offset: 80, content: □, id: KR3fc034_tls_028-bkkpn15}
+  back: []
+hash: sha256:d04dd399774297711db90ee2d74d25d46936803e4b6023677792ecb1bc26eb12

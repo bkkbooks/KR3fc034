@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/34
+seq: 34
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曰子命之材驗己事為鬼椰榆久矢寧幾是是欽遠無長借小道廡幾巨罔裸于公家細或于民用漫自附於窮愁著書悲憤無聊之云爾時
+  hash: sha256:c30487e0d5775072434bdb76d9c400841e2d51cf9c0e7c713f0b6be325e7317d
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:730f644d811394d1db3b36977a2cf9855c70afa4dcf5f4c23f5787700cd82ebc

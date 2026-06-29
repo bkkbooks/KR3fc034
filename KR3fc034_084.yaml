@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/84
+seq: 84
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 瞬息彈措剎那六德虛空清净摸下年存此名而無定令實亦不用度聽以分別長短丈十尺尺十寸寸十分分十厘毫絲忽同前量所以分别多寡石十斗斗十升升十合合十勺勺十抄抄十撮撮十圭圭十粟粟即一粒之栗以上是自石而下者斛古一石今五斗釜六斗四升庚十六斗乘十六創以上是自石而上昔衡聽以分别輕重斤十六兩兩二十四銖銖十矣絫十黍黍乘方得而有唯以上是自斤而
+  hash: sha256:96c16d0e5bffb5add3ff32e237be5688e838600c1ceed61545ba7323e4cd63d5
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:1dc7e9c021b53a14d94f138b6860408a4263718dc862a4f9aa220622d9dd5496

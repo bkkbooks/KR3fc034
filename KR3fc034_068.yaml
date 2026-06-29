@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/68
+seq: 68
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 恆圓中直如徑也周外圍也
+  hash: sha256:34b3bf7e5ff09f5f19d8d25ba2be33aedfa557a1fc43a68cf8b585c9287ed972
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:682857eb2cf3ea65075270b3e2e1803ee75a075919ff253f3d61f10b277e7151

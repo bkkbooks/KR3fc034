@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/112
+seq: 112
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 實以七乗得數之如有八五金十兩求足色金即置十兩以八五為法乗之得八兩五錢是也盖以八五乗十兩陞積則得八十五兩降積則得八兩五錢可以通用餘可數推折半用乗法折半當用五歸而位及陞今變用五因於下位得数而位不陞為便留頭乗法歌因乗之法用此真起手先從二位因三四相連俱乗遍後將首位破其身言留法首一位先將法第二位数順次從實下隔位乗起至尾完半後將法首位破應乗實身之位也掉尾乗法言於應乗實位下按法位数若干從法尾位以次掉捲逆乗至實身止也
+  hash: sha256:e525b240fa63578ac23e8f8f3c02cc6bff48829f6674a4c881e9d5a5c286a1b5
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:250a9b1a0bc61ebebdcc1b7b36526ef6fde87106b5539fea91c837d0c2bf7879

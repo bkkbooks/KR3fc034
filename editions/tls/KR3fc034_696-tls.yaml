@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/696
+seq: 696
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 或六零三六兩加周相乗各以率除皆得積問周率乗積為實方圓開方除所加三稜帶三為縱差開方再減三數宜即得外周不用疑又增各束問積問周通法歌方周問積四歸周加一自乗得積優以積問周開方良減一四乗周可詳圓週三歸亦加一自乗三因四歸圓積四因再三歸開方減一三乗推稜週三歸加一零另加二數兩相乗得數折半合本積以積問周倍為實帶一作縱開平方減一三乗周亦彰解義加減中心求積求周舊亦載分二歌而義求貫且方三稜各有中心者只有與中心者舊俱邉濶未簡故依法前搃歌後歌又搃括簡明通法伴人易曉易記兩者皆不可廢故併著幹右
+  hash: sha256:f46cc3b2a3f56f045add0aff1412fc5fbd82e2dee14305552abf11e5b5048226
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:9977f6c9dfb97183bfabe9122f122d92da50cb0c7f98ca9b64c6a71c8f066f80

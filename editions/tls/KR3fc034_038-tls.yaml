@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/38
+seq: 38
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第一卷法章河圈洛書卦位图觯共八圈黄鍾萬数根本觯共四條諸物数名目詳共八條九九呼筭秉除歌共三章分别法賽左右分立訣計一條乘除位法觯共十七條有無除撞艜法二歌二條問原還原法觶共二條同異先後乘除諎法共十五條自秉互秉維秉歧併倍折分合诸法共十七條子母互维通約乘除諸法共五條带咸縱積弧勾加减等法共十三條金蝉脫殻因乗法共四條袖中掌上定位圖訣共一條增添相乗自乗掌訣共二條鋪地錦冪笑因乗法共三條
+  hash: sha256:451bef18f13407a11fa1f50a14e46857652e905bf78046043456a401fbebfc83
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:687cd382bf2cf5d6724b376bf2f76408ab89bbc783dbfcb3b650fcb6874f6a6d

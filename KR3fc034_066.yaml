@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/66
+seq: 66
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 算法用字例身本位也如本身下位進秸進前一位退下後一位挨隨變數乜上位之左下位之有左上大位右下下位首第一位尾末一位呼呼唤其數也置刋也列位各列位次以用也為數未定也得數巳或也原數也今問數也加增添也减退少也相二數以少减多併二數或三數相和率數也倍再加一倍折半截去一半截分也通問共數也差多少不問數也平彼此相遇數也有數也言亦呼也較相較也直長也縱高長也橫也庚橫俱也斜長之斜即勾股弦高上起可數深下入數面方面也方四面同數也方直也隅隅角也
+  hash: sha256:265f8c3f02a70ca5ef50b8f914f9cc2901adeb800bf5abdb59698f1deda5d71d
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:b80f912708c27eaaf363eb1744a5197be603e4bf5a8e6e2ecb389b23fcedd4b7

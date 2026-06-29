@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/906
+seq: 906
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 白下隱吏古齊陽丘足軒強恕居士李長茂拙翁甫輯著衰分章此章因別等因素求例業不一以歸一合不齊以為齊凢貴賤多少輕重以至雜揉參差推義立法求其有等誠筭法之榷興也棄分歌衰分各數不相同湏要分作一分明將此一分為之法以乗各數得均平衰者等也物之混者求其等而分之也合率差分合率者合諸不等之數以為卒也諸數原多不等即合不等之數共為一率以分原實即邊得各應有不等之數前法已經多見今分衰列明俾人易曉
+  hash: sha256:87ae917395c46c63142eeca20cec3a13f447d37735d561f57127a72a17552073
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:d17dbf390c5b84b89e9d729c50d1c6af32d1491630805b1e57d46dbbfdb3fa25

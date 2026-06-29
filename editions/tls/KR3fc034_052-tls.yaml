@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/52
+seq: 52
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 匿數因借原知法共二條匿數羊索設難法共二條匿數物不知緫法共四條盈不足匿數差分法共七條两盈匿數問銀里法計一條两不足間井久縄法計一條盈遣足不足足匿數差分法共二條變套了盈不足匿數法計一條雙套两盈两不足匿毅法共二條雙套盈足不足足匿數法計一條雙套盈不足帶分子分母計一條雙套两盈而不足带分子母法共二條雙套盈遣足不足足带分子母法計一條匿價二色至六色方程法共十二條附洛書衍數諸共十八黄鍾相生五音圆計一條黄鍾相生律吕圆共十二條紀歴年度分地里觧計二條行年椎孕男女法計一條目録章
+  hash: sha256:0dab7316d7ca959b33b0ae0c51752357be961ec0167f9a1ca3b97a3b6ea51beb
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:eef5f487e04591e51610e490698ed4bf1a716bacd736b13be094bb305a9104d9

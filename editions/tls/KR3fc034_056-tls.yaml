@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/56
+seq: 56
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 通集盤珠集走盤集三元化零歌鈐經鈴嘉定咸淳德佑等年又刋各書詳觧黄帝九章詳觧日用算法乗除通本末續古摘竒筭以上俱楊摘竒内詳明筭法无儒安止猍何平子你有乗除而無九章九章通明筭法永樂二十二年臨江劉仕隆作九章而無乗除苛法後作稚二十三欽掯明筭法正統一未江寧夏源作九章不全九章比數筭法景泰午銭塘吳氏作共八本有乗除分九章每章後有導題章類繁乱差亦多筭学通衍成化壬展京兆劉洪作
+  hash: sha256:e7c07dbc958ae91cd582743b2636c073f1ba9c3b1a2796ac7e9e46484e336b72
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:19385e193ed1fe39d01fe7ddb4d57a39be11239b4974a7ea87c33a2ad0a875b9

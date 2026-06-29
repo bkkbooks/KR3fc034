@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/184
+seq: 184
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 解義掌上定位之法算家所不可廢如偶得數無算盤可用即于掌上定位求之但或位數遇多烯除法洐實前以次烯除猶易若乘法洐尾位逆乘大數在前數無頭緒易于忘失令立自首位挨乘之法㝎首一位乘光開挨以乘下應乘光以住記明一位止數不至外錯紀然有州乘自乘二等今各到增法于後新增掌上相乘歌相乘掌上法宜明法首實首一順行法首挨身逐位下次位又向身前乘三位四位以次逆得數俱向本位增
+  hash: sha256:560af8399ea9002249b085442d38f26ee0b4b45567144bd90f6412bfad5ac72d
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:d844a3e1a4bb7360d05cecb2a1f728318c116cbe1e239618b205edf1b50833d9

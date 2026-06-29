@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/224
+seq: 224
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 勾股圭梭欖田等長廣相乘折半平梯斜兩廣相併折長乘見積數成二不等併兩廣步折半長乘法相重三廣倍中併二澗四歸再以長乘從牛角眉田兩長併折半還㸹半徑通四五不等須分段廣長不一有同情歌缺形狀多不偹因形截大筻工丈量篾車圖以即十字木也一樣二根合成十字口轉以即前二根交佝合成十字中心一安下轉心四項開口閉拴置鎖上長口是監乃罡蔑之懷口以矩口是橫乃鎖蔑之口上十字即套入此內
+  hash: sha256:96da1889b75c08786e6ff692de360e84e528179f282b5a5ede101c4f72eaf8a9
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:8cc831be8e626b9dee2d202bf2c2bdea326931d36634421bfabcb13561406f80

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/58
+seq: 58
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九章詳注算法成化戊戊金陵訐許榮作柄取吳氏之法九章詳通算法成化癸卯鄱陽余進作柄取詳明通明法啓蒙發明算法嘉靖丙戍稫山鄭高异作馬僸改正算法河間吳橋人嘉靖戊戍作無秉除只改錢塘吳信民請反正邪數歡勾股算法嘉靖癸巳吳興尚書箬溪頽應祥作無乘除正明算法嘉靖巳夾金瑩張爵作算理明解嘉靖庚子江西字都陳必智作重明算法訂正算法嘉靖庚子浙東畣秸林高作詳解定位測圓海鏡嘉靖庚戍學士欒城冶公作無乘除
+  hash: sha256:236a408b1efb0839e766604d6fb888ba0eebb16696f0f04154c77398af259a46
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:1bdceeb61cddc9626cce359f1d39b22dbb047f63294c1e89e03a148d6fbcf212

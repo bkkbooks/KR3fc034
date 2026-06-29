@@ -1,0 +1,28 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/markers/22
+seq: 22
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc034_tls_001-p6.s8}
+  - {type: line-break, offset: 0, content: '', id: KX_8_dup5, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: punctuation, offset: 3, content: □, id: KR3fc034_tls_022-bkkpn1}
+  - {type: punctuation, offset: 11, content: □, id: KR3fc034_tls_022-bkkpn2}
+  - {type: 'tls:seg', offset: 14, content: '', id: KR3fc034_tls_001-p6.s9}
+  - {type: line-break, offset: 14, content: '', id: KX_9_dup5, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: punctuation, offset: 17, content: □, id: KR3fc034_tls_022-bkkpn3}
+  - {type: 'tls:seg', offset: 28, content: '', id: KR3fc034_tls_001-p6.s10}
+  - {type: line-break, offset: 28, content: '', id: KX_10_dup5, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: punctuation, offset: 30, content: □, id: KR3fc034_tls_022-bkkpn4}
+  - {type: punctuation, offset: 31, content: □, id: KR3fc034_tls_022-bkkpn5}
+  - {type: 'tls:seg', offset: 40, content: '', id: KR3fc034_tls_001-p6.s11}
+  - {type: line-break, offset: 40, content: '', id: KX_11_dup5, _xml_error: duplicate-id, _xml_original_id: KX_11}
+  - {type: punctuation, offset: 46, content: □, id: KR3fc034_tls_022-bkkpn6}
+  - {type: punctuation, offset: 52, content: □, id: KR3fc034_tls_022-bkkpn7}
+  - {type: 'tls:seg', offset: 53, content: '', id: KR3fc034_tls_001-p6.s12}
+  - {type: line-break, offset: 53, content: '', id: KX_12_dup5, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 68, content: '', id: KR3fc034_tls_001-p6.s13}
+  - {type: line-break, offset: 68, content: '', id: KX_13_dup5, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: punctuation, offset: 74, content: □, id: KR3fc034_tls_022-bkkpn8}
+  - {type: punctuation, offset: 80, content: □, id: KR3fc034_tls_022-bkkpn9}
+  back: []
+hash: sha256:e732a6c18d1736bdad98b1081de157a405b66a31eceeb676dac0c439b860d6cd

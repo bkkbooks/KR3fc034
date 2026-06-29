@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/28
+seq: 28
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五月餘值使旌不乃巳那项友损方憂無術而邑南之江寕镇復罹刼鞘之異鎮浸耑讯友遠之里六十属鞭長雞及行且受地方嚴下赔銀檄矢戌之七月谢邑務那项尚颖抵未三月而先嚴凢向缩地繇比震慟義欲
+  hash: sha256:e1bbe57300b9846ac48136afc811986b42c48778d05d6cc89700f4ef993fee6d
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:183d626f1c872645c823bc4df6b3e109faf2b54d4e06b073142235fd57a7a825

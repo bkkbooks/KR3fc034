@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/1270
+seq: 1270
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 徵火三分益一屬商金商居八九還生羽羽水得流六八侵復以三分而益一角音八入妙通神三分損一乃三分之二三分益一乃再添二分內一分也五音相生圖黃鍾之管長九寸以九寸自乗淂八十一寸為宮音卻捋八十一以二因之淂一百六十二寸以三歸之得五十四寸所謂三分損一而生微火卻以五十四以四因之淂二百一十六以三歸之淂七十二寸所謂三分益一而生啇金卻將七十二以二因之以三歸之淂四十八寸雨生羽水復將淂數四十八以四因之以三歸之淂六十四而生角木此乃五音相生之法多者為導為濁少者為畢為法也
+  hash: sha256:7ef3d68f0eab94cc1d274d721cfbcf89f0a31c91ad566fc3a94c3fedce75c275
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:90ec4ec55b7f095a516cd0f71b31f0ecbf1686afd6aa2e2d19a6a6345b22917d

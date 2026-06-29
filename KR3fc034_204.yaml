@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/204
+seq: 204
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 格末寫一行右行下二二行上七三行右四得每匹二兩七錢四分更定歸除圖解義上因乘圖易曉歸除圖自下向左琁上而右得數或在下或在左上右參差不一今更圖以實列上除數居中以次每格有共末行蓓數在下數為直不至差誤此圖以實位原數在上得數寫下歸除活數居中第圖分列四行間寫歸除於上歸增歸減者寫歸行下除減除增者寫除行下各圖俱自左而右至寫行盡即得數本位順序不亂庶便稽考
+  hash: sha256:a7cc102e6adb2a94c3384b1b48f018391a973226580ead100a3628e7c9e9aabe
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:ad8af6741e425043ee5410522240877dded470e76a432914d60885b271a55ed5

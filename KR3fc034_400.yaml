@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/400
+seq: 400
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有方內容圓方長十步問圓積四隅積各若干舊法置方十步自乘得方積一百步三因四歸得圓積七十五步四隅長各五步折半得二步五分自乘得一隅積六步二分五厘四隅共積二十五步圓的方四分之三四隅得圓三分之一解義以十分為圖圓七分五厘四隅二分五厘列慈四分之三伴人易晄此圖方內容圓之內又容方圓內方外容弧矢方內圓外容四隅以發互相考較庶無差誤求方內容圓法今有方面五十六步問內圓及四隅積各若干舊法置方面五十六步自乘得方積
+  hash: sha256:b09edfa518d6db56060bd35f23d0ea594ab3f95f7455bac86fff3b0a18dac081
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:1f2ff91eb7130592aa5c44c6e89e32275287a0362e4728dabbda36c9c356cd5e

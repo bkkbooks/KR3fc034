@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/240
+seq: 240
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有方田一叚從中心截一圓田作塘塘外四面濶各十歩方周此圓週二倍問外方圓徑及內外田各若干増法置兩面外方內餘濶二十歩倍之得內徑四十歩加外濶二十歩得外方面六十歩內圓徑四十歩自乗得一千六百歩三因四歸得內圓積一千二百歩外方六十歩自乗得共田積三千六百歩除內圓一千二百歩得餘方積二千四百歩増法圓外濶各十五歩方周比圖周兩倍餘四十歩問方徑田置兩面濶共三十歩倍之得六十歩另置餘四十歩折半得二十歩以減倍濶六十歩得內圓徑四十歩加兩濶三十歩得外方面七十歩照上除內圓積得餘方積増法圓外各濶五歩方周比圓
+  hash: sha256:5bd8bac57aefb114b61ffdb03a549507b1225b6b4d349b1b0d2572351f0d41d5
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:af5fd5a00b4c98df9afdd5ab8e9f26bf12019421ca86a76cfd4050250473a96c

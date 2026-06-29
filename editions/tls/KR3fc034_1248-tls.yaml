@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/1248
+seq: 1248
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又易換四四圖一十五十四四十二六七九八十十一五十三三二十六此內外四角不動將四靣八位亦交互對換與上對換內外四角皆縱橫三十四數五五圖二十五十一二六二十一二十二十八九十二四十七十三十九十六三十四十七八二十三五十五二十四二十一自五五以至百子圖皆以始數一與末尾數相對首二數與末二數首三數與末三數挨次或正或斜相對五七九單數者則中心一單位居中餘皆互對求積法以首數一末數二十五併之得二十六以二十五乗之得六百五十折
+  hash: sha256:3c28d86874a1dcc61cbe3813b36873d8b3c30bc296b5e1b81d22bcba79d58d93
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:9dfcd3ff057ab76cdc0f7bc6b4b2c19382a15cb6cb1e5b174b4c907e49c3ea5a

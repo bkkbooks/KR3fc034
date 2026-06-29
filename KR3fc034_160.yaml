@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/160
+seq: 160
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 適抵三乘之數也自乘互乘折平法謂如本數不能折平須用積數折平即將各數自乘又彼此互乘合併三折以合本數如窖臺皆用此法互乘再互乘法謂如本數多位相牽互乘取平減除一宗尚有餘宗未分又將減餘之數再用互乘對減以求一物之數正負層叠互乘法正正數也負虛數也謂如位數遇多互相聮絡牽帶減除一數又粘連未分一數即將未分一數重設虛位再與他數乘減沗求以次遞推以得一數方程等法是也子毋乘除法謂如各位分數零餘如某位某分之幾即以某分為毋以之幾為子交互推求子乘毋除以求一數又二位相乘為毋以二
+  hash: sha256:aaa93709417ba5e4a3967fd85e383ca454514682433e4fa61aa6f564ee079df0
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:99e79453e2a18138ca3aeea4ab2f94a42a0d0a9badc3c98d0440f370368d7c0a

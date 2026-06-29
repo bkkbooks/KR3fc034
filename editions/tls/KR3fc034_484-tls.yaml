@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/484
+seq: 484
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一用勾弦較得勾弦和如勾弦較三十六步除股自乗三千六百步即得勾弦一百步一用勾弦和得勾弦較如勾弦一百步除股自乗三千六百步即得勾弦較三十六步一用股弦較得股弦和如股弦較八步除勾自乗一千零二十四步即得股弦和一百二十八步一用股弦和得股弦較如股弦和一百二十八步除勾自乗一千零二十四步即得股弦較八步一弦較和絃較相通如勾股和九十二步自乗得八千四百六十四步減弦自乗四千六百二十四步餘三千八百四十步以弦較較四十步除之得九十六步為弦較和若
+  hash: sha256:c5ee5d244edf632a83076cac6d85bc6c6fe0e6781f09719f1adae3dac51cb07e
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:837cb31a1ff1c0e501a63a00921fd810a792b766f5843366e275cb183086f575

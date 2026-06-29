@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/768
+seq: 768
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得二萬七千寸再以入深四尺作四十寸乗之得一百零八萬寸為實另置每塊濶五寸以原二寸乗之得十寸再以長一尺作十寸乗之得一百寸為除實得磚積一萬零八百塊解義入深四尺即濶也增法即通乗通除法因每塊孕濶俱以寸計將長十尺亦以寸計每塊得方一百寸故將磚垜長高深俱以寸計相乗以每塊長濶厚亦以寸計相乗為法除之得積也筭海説詳第五卷終
+  hash: sha256:0d841ca301b8d0d2f8d120147c0ac5cfb8562809492f97d3c5e44b4d6a4c0faf
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:f5dba69ee3a6f105c17d77ae7cdc6e6575030e88e0a8934be12ab7d30fb1605d

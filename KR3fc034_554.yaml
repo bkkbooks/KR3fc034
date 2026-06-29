@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc034/tls/v1/juan/554
+seq: 554
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以竿影長一丈二尺五寸為法除之得木高四丈
+  hash: sha256:854304fe8a8d85c6f85a7703162b505d3467abd1b4579cdf27596d553aa044b9
+metadata:
+  title: 算海詳說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc034.xml
+hash: sha256:2f231768e6d21e3ca26400321a67632678718b12123a10186174e96dc02e2d6f
