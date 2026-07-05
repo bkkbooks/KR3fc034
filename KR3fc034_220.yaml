@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 北為一歌於西北為七歌東為二歌西為八須熟暗記乃不誤用卯解義本上定位只照前寅卯辰已十二位分萬千百十位乘為便此圖每指各列九數左手五指止於位不又以左益決遇繁碎此小術無用笑海說詳第一卷終
-  hash: sha256:0d3deaeba317566efb0182bcecbb0c3d4a71eb5a7cab22a816eaad7ea066ae9b
+  text: 北為一歌於西北為七歌東為二歌西為八湏熟暗記乃不誤用卯解義本上定位只炤前寅卯辰已十二位分萬千百十位乘為便此圖每指各列九數左手五指止於位不又以左益決遇繁碎此小術無用笑海説詳第一卷終
+  hash: sha256:422108f7d5d315f412c11f818ea42b922e4e04badcc9f72bc563e5d86b76836a
 metadata:
   title: 算海詳說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc034.xml
-hash: sha256:d8b2839028a1ae42033e54801b274b51ddd0144c0da8854fc28e48c45b02d272
+hash: sha256:80b82711b83988073084f7bad35a8437113964a6b80d3f68e2683b8eab94c385

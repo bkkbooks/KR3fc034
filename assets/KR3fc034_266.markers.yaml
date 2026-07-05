@@ -32,7 +32,6 @@ markers:
   - {type: line-break, offset: 61, content: '', id: KR3fc034_tls_266-bkklb5}
   - {type: 'tls:seg-end', offset: 62, content: '', id: KR3fc034_tls_001-p69.s13.4_end, seg_type: comm}
   - {type: 'tls:seg', offset: 62, content: '', id: KR3fc034_tls_001-p69.s13.5}
-  - {type: substitution, offset: 62, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
   - {type: 'tls:seg', offset: 64, content: '', id: KR3fc034_tls_001-p69.s14}
   - {type: line-break, offset: 64, content: '', id: KX_14_dup55, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg', offset: 71, content: '', id: KR3fc034_tls_001-p69.s15}
@@ -109,10 +108,8 @@ markers:
   - {type: 'tls:seg-start', offset: 205, content: '', id: KR3fc034_tls_001-p69.s20.2, seg_type: comm, member_ids: [KR3fc034_tls_001-p69.s20.2, KR3fc034_tls_001-p69.s21.1, KR3fc034_tls_001-p70.s1.1]}
   - {type: 'tls:seg', offset: 205, content: '', id: KR3fc034_tls_001-p69.s20.2}
   - {type: line-break, offset: 229, content: '', id: KR3fc034_tls_266-bkklb18}
-  - {type: substitution, offset: 235, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
   - {type: 'tls:seg', offset: 253, content: '', id: KR3fc034_tls_001-p69.s21.1}
   - {type: line-break, offset: 253, content: '', id: KX_21_dup54, _xml_error: duplicate-id, _xml_original_id: KX_21}
   - {type: line-break, offset: 279, content: '', id: KR3fc034_tls_266-bkklb19}
-  - {type: substitution, offset: 287, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
   back: []
-hash: sha256:4531fd2c9b17b9d64f23c23a07e40869644de1c54646dd9a3d496720f4cbaaf3
+hash: sha256:2b427193a5c8c87618217ae10ceaedbaa746eda92d03853dff239bb185f785b2

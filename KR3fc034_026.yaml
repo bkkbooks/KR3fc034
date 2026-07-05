@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 末仲補任白不級次署職無職掌而時奔牛馬纍楹粥産陽破丁酋戊戌慚以克公蒙鍳連省署邑之委法地則大力負走人畏棄則屬于每泩增困署江浦二月餘邑小差數寧事後自守浦之人大能言署江寧
-  hash: sha256:8ca5bba6447dd8c270f2f923bdf3e1ef0a6f290d3b5e179afa9713165bb493a7
+  text: 末仲補任白不级次署職無職掌而时奔牛馬累楹粥產陽破丁酋戊戌慚以克公蒙鍳連省署邑之委法地则大力負走人畏棄则属于每泩增困署江浦二月餘邑小差數寕事後自守浦之人大能言署江寕
+  hash: sha256:018550a6e78a7cdd603ca76b5df60b441c82b88e48c1df5c130e04c9f23f25ac
 metadata:
   title: 算海詳說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc034.xml
-hash: sha256:da8da101e764c05b152b151c6d23510d687519fb981a0d3fe74aaf2cc4c40435
+hash: sha256:d00ec2ada97b32b59a18cb28a26811bf65a8bdbf486274c4135e87d161f6a613

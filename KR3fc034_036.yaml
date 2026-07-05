@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 順巳亥月東齊吝陽丘後學李長茂拙翁甫書道宕之靜舍
-  hash: sha256:a3d7bc65f0ddcb935fc190009bc2c7e5441e1e1fb0e88462505d5d68bf9b53d0
+  text: 顺巳亥月東齊吝陽丘後学李長茂拙翁甫書道宕之静舍
+  hash: sha256:54031c36a99b583b2f9bfae518791aa9b8478ee5bda9a013eef7267048c87aa9
 metadata:
   title: 算海詳說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc034.xml
-hash: sha256:3ec755a58c8f509e9de2516fe1010a47d584a791a48dcb1d81d0a414a76cbc3b
+hash: sha256:8f3e393197a10a010ae684e0ae364a65089421f9d110a9efa12daff3c945f308

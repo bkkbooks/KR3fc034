@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 爾道是拙卦右序順治十八軍小月三長三社第甫維甫撰書
-  hash: sha256:325187aa265decc2cc61e5c927433e0731ad3d49d4458a6050fb86c827037150
+  text: 爾道是拙卦右序顺治十八軍小月三長三社第甫维甫撰書
+  hash: sha256:ab60afb13530c6fc9d724ae9e47125e19411d58bd3fdf30f898bb06928b78d35
 metadata:
   title: 算海詳說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc034.xml
-hash: sha256:f557c026b9e86e24d7af81d9373a0357310b75efb14dfbc27d9699021fac6d9a
+hash: sha256:98ce9b67afff21fc795762a305ec0084576c97a780304fab899d7abe9c2842ea

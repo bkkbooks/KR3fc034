@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 洛書者禹治水時洛水神龜負文於背戴九履一左三右七二四為肩六八為是有數自一至九禹固第之以作九疇洛盡南而東而中復旋始於北
-  hash: sha256:0adeb6ec0e5f4e3bf8cc595393d475a9777e8e4a74f9c521122c273de103a334
+  text: 洛書者禹治水時洛水神亀負文於背戴九履一左三右七二四為肩六八為是有數自一至九禹固第之以作九疇洛盡南而東而中復旋始於北
+  hash: sha256:efc0ffac31fbeb635f58677bd8f4e4969dac4726907da681465e6f94ddf81d55
 metadata:
   title: 算海詳說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc034.xml
-hash: sha256:411bf2ac0d57b0dfd0948ba316f2edd487aa4af587c0f0f4017e92255ee3139c
+hash: sha256:1d103dd2c381bdd114d0b92b6ae33665bee0da4d52b2726cd22e5baabe9871fd

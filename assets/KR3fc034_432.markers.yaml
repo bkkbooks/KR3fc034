@@ -9,7 +9,6 @@ markers:
   - {type: line-break, offset: 3, content: '', id: KX_2_dup109, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg-start', offset: 5, content: '', id: KR3fc034_tls_001-p111.s2.2, seg_type: comm, member_ids: [KR3fc034_tls_001-p111.s2.2]}
   - {type: 'tls:seg', offset: 5, content: '', id: KR3fc034_tls_001-p111.s2.2}
-  - {type: substitution, offset: 17, original: 毎, replacement: 每, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4509}}
   - {type: line-break, offset: 29, content: '', id: KR3fc034_tls_432-bkklb1}
   - {type: 'tls:seg-end', offset: 53, content: '', id: KR3fc034_tls_001-p111.s2.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 53, content: '', id: KR3fc034_tls_001-p111.s2.3}
@@ -17,7 +16,6 @@ markers:
   - {type: 'tls:seg', offset: 53, content: '', id: KR3fc034_tls_001-p111.s3.1}
   - {type: line-break, offset: 53, content: '', id: KX_3_dup107, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: line-break, offset: 72, content: '', id: KR3fc034_tls_432-bkklb2}
-  - {type: substitution, offset: 83, original: 騐, replacement: 驗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1041}}
   - {type: 'tls:seg-end', offset: 90, content: '', id: KR3fc034_tls_001-p111.s3.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 90, content: '', id: KR3fc034_tls_001-p111.s3.2}
   - {type: 'tls:seg', offset: 90, content: '', id: KR3fc034_tls_001-p111.s4}
@@ -81,4 +79,4 @@ markers:
   - {type: 'tls:seg-end', offset: 296, content: '', id: KR3fc034_tls_001-p111.s11.6_end, seg_type: comm}
   - {type: 'tls:seg', offset: 296, content: '', id: KR3fc034_tls_001-p111.s11.7}
   back: []
-hash: sha256:057ed1662b910a1121f4320d6d848369368ae3b7dad5d25130b38432f4d60b63
+hash: sha256:c89b5f4e2b4929069ee7114943324c4e6ad00b637727ff78c6d7a0c2d54e5864

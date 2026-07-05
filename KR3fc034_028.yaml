@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 五月餘值使旌不乃巳那項友損方憂無術而邑南之江寧鎮復罹劫鞘之異鎮浸專訊友遠之里六十屬鞭長雞及行且受地方嚴下賠銀檄矢戌之七月謝邑務那項尚穎抵未三月而先嚴凡向縮地繇比震慟義欲
-  hash: sha256:b7a9c699621169a6c749dbb84525ef5a493ef8848c7253f332a93832027d6db4
+  text: 五月餘值使旌不乃巳那项友损方憂無術而邑南之江寕镇復罹刼鞘之異鎮浸耑讯友遠之里六十属鞭長雞及行且受地方嚴下赔銀檄矢戌之七月谢邑務那项尚颖抵未三月而先嚴凢向缩地繇比震慟義欲
+  hash: sha256:e1bbe57300b9846ac48136afc811986b42c48778d05d6cc89700f4ef993fee6d
 metadata:
   title: 算海詳說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc034.xml
-hash: sha256:bebd707d697174c5cb09bf47063229741f5cda79b8b49c5e5bd9753bbf41f710
+hash: sha256:183d626f1c872645c823bc4df6b3e109faf2b54d4e06b073142235fd57a7a825

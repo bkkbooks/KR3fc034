@@ -23,7 +23,6 @@ markers:
   - {type: line-break, offset: 48, content: '', id: KR3fc034_tls_946-bkklb3}
   - {type: 'tls:seg-end', offset: 50, content: '', id: KR3fc034_tls_001-p242.s2.6_end, seg_type: comm}
   - {type: 'tls:seg', offset: 50, content: '', id: KR3fc034_tls_001-p242.s2.7}
-  - {type: substitution, offset: 52, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
   - {type: 'tls:seg-start', offset: 54, content: '', id: KR3fc034_tls_001-p242.s2.8, seg_type: comm, member_ids: [KR3fc034_tls_001-p242.s2.8]}
   - {type: 'tls:seg', offset: 54, content: '', id: KR3fc034_tls_001-p242.s2.8}
   - {type: line-break, offset: 55, content: '', id: KR3fc034_tls_946-bkklb4}
@@ -46,7 +45,6 @@ markers:
   - {type: line-break, offset: 85, content: '', id: KR3fc034_tls_946-bkklb7}
   - {type: 'tls:seg-end', offset: 86, content: '', id: KR3fc034_tls_001-p242.s3.4_end, seg_type: comm}
   - {type: 'tls:seg', offset: 86, content: '', id: KR3fc034_tls_001-p242.s3.5}
-  - {type: substitution, offset: 86, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
   - {type: 'tls:seg', offset: 87, content: '', id: KR3fc034_tls_001-p242.s4.1}
   - {type: line-break, offset: 87, content: '', id: KX_4_dup237, _xml_error: duplicate-id, _xml_original_id: KX_4}
   - {type: 'tls:seg-start', offset: 89, content: '', id: KR3fc034_tls_001-p242.s4.2, seg_type: comm, member_ids: [KR3fc034_tls_001-p242.s4.2]}
@@ -65,17 +63,14 @@ markers:
   - {type: 'tls:seg', offset: 104, content: '', id: KR3fc034_tls_001-p242.s4.7}
   - {type: 'tls:seg', offset: 110, content: '', id: KR3fc034_tls_001-p242.s5.1}
   - {type: line-break, offset: 110, content: '', id: KX_5_dup235, _xml_error: duplicate-id, _xml_original_id: KX_5}
-  - {type: substitution, offset: 110, original: 觧, replacement: 解, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3270}}
   - {type: 'tls:seg-start', offset: 112, content: '', id: KR3fc034_tls_001-p242.s5.2, seg_type: comm, member_ids: [KR3fc034_tls_001-p242.s5.2]}
   - {type: 'tls:seg', offset: 112, content: '', id: KR3fc034_tls_001-p242.s5.2}
   - {type: line-break, offset: 136, content: '', id: KR3fc034_tls_946-bkklb10}
-  - {type: substitution, offset: 149, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
   - {type: 'tls:seg-end', offset: 160, content: '', id: KR3fc034_tls_001-p242.s5.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 160, content: '', id: KR3fc034_tls_001-p242.s5.3}
   - {type: 'tls:seg-start', offset: 160, content: '', id: KR3fc034_tls_001-p242.s6.1, seg_type: comm, member_ids: [KR3fc034_tls_001-p242.s6.1]}
   - {type: 'tls:seg', offset: 160, content: '', id: KR3fc034_tls_001-p242.s6.1}
   - {type: line-break, offset: 160, content: '', id: KX_6_dup235, _xml_error: duplicate-id, _xml_original_id: KX_6}
-  - {type: substitution, offset: 167, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
   - {type: line-break, offset: 186, content: '', id: KR3fc034_tls_946-bkklb11}
   - {type: 'tls:seg-end', offset: 212, content: '', id: KR3fc034_tls_001-p242.s6.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 212, content: '', id: KR3fc034_tls_001-p242.s6.2}
@@ -89,7 +84,6 @@ markers:
   - {type: 'tls:seg', offset: 264, content: '', id: KR3fc034_tls_001-p242.s8.1}
   - {type: line-break, offset: 264, content: '', id: KX_8_dup236, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: line-break, offset: 290, content: '', id: KR3fc034_tls_946-bkklb13}
-  - {type: substitution, offset: 295, original: 湏, replacement: 須, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3551}}
   - {type: 'tls:seg-end', offset: 316, content: '', id: KR3fc034_tls_001-p242.s8.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 316, content: '', id: KR3fc034_tls_001-p242.s8.2}
   - {type: 'tls:seg-start', offset: 316, content: '', id: KR3fc034_tls_001-p242.s9.1, seg_type: comm, member_ids: [KR3fc034_tls_001-p242.s9.1]}
@@ -102,4 +96,4 @@ markers:
   - {type: line-break, offset: 341, content: '', id: KX_10_dup235, _xml_error: duplicate-id, _xml_original_id: KX_10}
   - {type: punctuation, offset: 348, content: 〇, id: KR3fc034_tls_946-bkkpn2}
   back: []
-hash: sha256:b9199317adea2a3ef8e32e058b022f1cbe75feabc63563597a5baf8641799997
+hash: sha256:4d0caf17d4e3bb85eabf4adcc53329751829290182b48ae4d4c86587873936e5

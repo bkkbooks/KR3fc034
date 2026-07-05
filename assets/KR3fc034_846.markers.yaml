@@ -37,11 +37,7 @@ markers:
   - {type: punctuation, offset: 155, content: 〇, id: KR3fc034_tls_846-bkkpn15}
   - {type: 'tls:seg', offset: 159, content: '', id: KR3fc034_tls_001-p216.s17}
   - {type: line-break, offset: 159, content: '', id: KX_17_dup195, _xml_error: duplicate-id, _xml_original_id: KX_17}
-  - {type: substitution, offset: 163, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3838}}
   - {type: punctuation, offset: 166, content: □, id: KR3fc034_tls_846-bkkpn16}
-  - {type: substitution, offset: 175, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3838}}
-  - {type: substitution, offset: 176, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
-  - {type: substitution, offset: 178, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3838}}
   - {type: 'tls:seg', offset: 186, content: '', id: KR3fc034_tls_001-p216.s18}
   - {type: line-break, offset: 186, content: '', id: KX_18_dup194, _xml_error: duplicate-id, _xml_original_id: KX_18}
   - {type: 'tls:seg', offset: 213, content: '', id: KR3fc034_tls_001-p216.s19}
@@ -58,4 +54,4 @@ markers:
   - {type: 'tls:seg-end', offset: 268, content: '', id: KR3fc034_tls_001-p216.s21.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 268, content: '', id: KR3fc034_tls_001-p216.s21.2}
   back: []
-hash: sha256:d829dc51555eafb9cde737cc1ef4766c40f2b3693e6303229a9b0acd4a68877d
+hash: sha256:c94577d7d50ace017bbc8218159879ae34849e7fc7716aac5a4b7d6cc436b7a4

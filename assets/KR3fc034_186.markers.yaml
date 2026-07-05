@@ -6,9 +6,7 @@ markers:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc034_tls_001-p48.s13}
   - {type: line-break, offset: 0, content: '', id: KX_13_dup44, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: punctuation, offset: 0, content: 〇, id: KR3fc034_tls_186-bkkpn1}
-  - {type: substitution, offset: 4, original: 湏, replacement: 須, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3551}}
   - {type: punctuation, offset: 7, content: 〇, id: KR3fc034_tls_186-bkkpn2}
-  - {type: substitution, offset: 9, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
   - {type: 'tls:seg', offset: 14, content: '', id: KR3fc034_tls_001-p48.s14}
   - {type: line-break, offset: 14, content: '', id: KX_14_dup36, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg', offset: 42, content: '', id: KR3fc034_tls_001-p48.s15.1}
@@ -49,7 +47,6 @@ markers:
   - {type: line-break, offset: 91, content: '', id: KR3fc034_tls_186-bkklb7}
   - {type: 'tls:seg-end', offset: 96, content: '', id: KR3fc034_tls_001-p48.s16.7_end, seg_type: comm}
   - {type: 'tls:seg', offset: 96, content: '', id: KR3fc034_tls_001-p48.s16.8}
-  - {type: substitution, offset: 105, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
   - {type: 'tls:seg', offset: 111, content: '', id: KR3fc034_tls_001-p48.s17.1}
   - {type: line-break, offset: 111, content: '', id: KX_17_dup33, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: 'tls:seg-start', offset: 123, content: '', id: KR3fc034_tls_001-p48.s17.2, seg_type: comm, member_ids: [KR3fc034_tls_001-p48.s17.2]}
@@ -102,4 +99,4 @@ markers:
   - {type: 'tls:seg-end', offset: 241, content: '', id: KR3fc034_tls_001-p48.s21.6_end, seg_type: comm}
   - {type: 'tls:seg', offset: 241, content: '', id: KR3fc034_tls_001-p48.s21.7}
   back: []
-hash: sha256:cc8103415dbf08d2b79cda00a12b1cb552a02a159869e99bc8976389f0518a23
+hash: sha256:b15035974daf81f6c4590647c82454beedf9aa5adc753925e8b3007fce6bcd97

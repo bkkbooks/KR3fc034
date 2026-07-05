@@ -5,33 +5,24 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc034_tls_001-p99.s12}
   - {type: line-break, offset: 0, content: '', id: KX_12_dup93, _xml_error: duplicate-id, _xml_original_id: KX_12}
-  - {type: substitution, offset: 20, original: 宻, replacement: 密, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3073}}
-  - {type: substitution, offset: 24, original: 圕, replacement: 圖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3408}}
   - {type: 'tls:seg', offset: 27, content: '', id: KR3fc034_tls_001-p99.s13}
   - {type: line-break, offset: 27, content: '', id: KX_13_dup93, _xml_error: duplicate-id, _xml_original_id: KX_13}
-  - {type: substitution, offset: 33, original: 週, replacement: 周, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0563}}
   - {type: 'tls:seg', offset: 54, content: '', id: KR3fc034_tls_001-p99.s14}
   - {type: line-break, offset: 54, content: '', id: KX_14_dup84, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg', offset: 81, content: '', id: KR3fc034_tls_001-p99.s15}
   - {type: line-break, offset: 81, content: '', id: KX_15_dup84, _xml_error: duplicate-id, _xml_original_id: KX_15}
-  - {type: substitution, offset: 83, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3838}}
-  - {type: substitution, offset: 84, original: 暦, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4503}}
   - {type: 'tls:seg', offset: 108, content: '', id: KR3fc034_tls_001-p99.s16}
   - {type: line-break, offset: 108, content: '', id: KX_16_dup83, _xml_error: duplicate-id, _xml_original_id: KX_16}
-  - {type: substitution, offset: 109, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: 'tls:seg', offset: 135, content: '', id: KR3fc034_tls_001-p99.s17}
   - {type: line-break, offset: 135, content: '', id: KX_17_dup82, _xml_error: duplicate-id, _xml_original_id: KX_17}
-  - {type: substitution, offset: 143, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: 'tls:seg', offset: 162, content: '', id: KR3fc034_tls_001-p99.s18}
   - {type: line-break, offset: 162, content: '', id: KX_18_dup82, _xml_error: duplicate-id, _xml_original_id: KX_18}
-  - {type: substitution, offset: 173, original: 圕, replacement: 圖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3408}}
   - {type: 'tls:seg', offset: 189, content: '', id: KR3fc034_tls_001-p99.s19}
   - {type: line-break, offset: 189, content: '', id: KX_19_dup83, _xml_error: duplicate-id, _xml_original_id: KX_19}
-  - {type: substitution, offset: 195, original: 甞, replacement: 嘗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0709}}
   - {type: punctuation, offset: 199, content: □, id: KR3fc034_tls_386-bkkpn1}
   - {type: 'tls:seg', offset: 215, content: '', id: KR3fc034_tls_001-p99.s20}
   - {type: line-break, offset: 215, content: '', id: KX_20_dup83, _xml_error: duplicate-id, _xml_original_id: KX_20}
   - {type: 'tls:seg', offset: 242, content: '', id: KR3fc034_tls_001-p99.s21}
   - {type: line-break, offset: 242, content: '', id: KX_21_dup82, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:69c201b1fdb6837e9107f8dc65a0fd0fb3c0631fc3a5fec7f71e9af59a96bcba
+hash: sha256:3f9207c9d461000e82bfebe478026d9dc34692694323c0daf70c91bb96c233f2

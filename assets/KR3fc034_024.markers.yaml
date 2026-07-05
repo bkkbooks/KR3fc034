@@ -6,7 +6,6 @@ markers:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc034_tls_001-p7.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup6, _xml_error: duplicate-id, _xml_original_id: KX_1}
   - {type: punctuation, offset: 3, content: □, id: KR3fc034_tls_024-bkkpn1}
-  - {type: substitution, offset: 4, original: 迺, replacement: 乃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0004}}
   - {type: punctuation, offset: 10, content: □, id: KR3fc034_tls_024-bkkpn2}
   - {type: 'tls:seg', offset: 12, content: '', id: KR3fc034_tls_001-p7.s2}
   - {type: line-break, offset: 12, content: '', id: KX_2_dup7, _xml_error: duplicate-id, _xml_original_id: KX_2}
@@ -25,10 +24,8 @@ markers:
   - {type: 'tls:seg', offset: 50, content: '', id: KR3fc034_tls_001-p7.s5}
   - {type: line-break, offset: 50, content: '', id: KX_5_dup6, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: punctuation, offset: 51, content: □, id: KR3fc034_tls_024-bkkpn11}
-  - {type: substitution, offset: 61, original: 荣, replacement: 榮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0675}}
   - {type: 'tls:seg', offset: 64, content: '', id: KR3fc034_tls_001-p7.s6}
   - {type: line-break, offset: 64, content: '', id: KX_6_dup6, _xml_error: duplicate-id, _xml_original_id: KX_6}
-  - {type: substitution, offset: 72, original: 应, replacement: 應, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0383}}
   - {type: punctuation, offset: 75, content: □, id: KR3fc034_tls_024-bkkpn12}
   back: []
-hash: sha256:9086106cf24ba77bfd3b5aafc157e7350c71c59f9c4195c095db5883d2667de4
+hash: sha256:7ac91314fb929ae231c83097a72ef259797d9237e2806bdbdd62e29f53a8e473
