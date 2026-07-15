@@ -33,9 +33,12 @@ markers:
   - {type: line-break, offset: 93, content: '', id: KX_15_dup229, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg', offset: 97, content: '', id: KR3fc034_tls_001-p249.s16.1}
   - {type: line-break, offset: 97, content: '', id: KX_16_dup228, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: substitution, offset: 97, original: 觧, replacement: 解, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19553}}
   - {type: 'tls:seg-start', offset: 99, content: '', id: KR3fc034_tls_001-p249.s16.2, seg_type: comm, member_ids: [KR3fc034_tls_001-p249.s16.2]}
   - {type: 'tls:seg', offset: 99, content: '', id: KR3fc034_tls_001-p249.s16.2}
+  - {type: substitution, offset: 106, original: 炤, replacement: 照, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17592}}
   - {type: line-break, offset: 123, content: '', id: KR3fc034_tls_976-bkklb5}
+  - {type: substitution, offset: 141, original: 搃, replacement: 總, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19893}}
   - {type: 'tls:seg-end', offset: 147, content: '', id: KR3fc034_tls_001-p249.s16.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 147, content: '', id: KR3fc034_tls_001-p249.s16.3}
   - {type: 'tls:seg-start', offset: 147, content: '', id: KR3fc034_tls_001-p249.s17.1, seg_type: comm, member_ids: [KR3fc034_tls_001-p249.s17.1]}
@@ -71,4 +74,4 @@ markers:
   - {type: 'tls:seg', offset: 274, content: '', id: KR3fc034_tls_001-p249.s21}
   - {type: line-break, offset: 274, content: '', id: KX_21_dup225, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:11b477d1a1a6924bbc2571e647ddf79031010c7c5e2aa8bd1bd3c551e13e2914
+hash: sha256:bf63fb141b94a95a4aa8f25502183333753c15ca63f1a2c8a0ee09904f94d920

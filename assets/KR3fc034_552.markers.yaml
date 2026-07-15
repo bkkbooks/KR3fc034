@@ -72,8 +72,14 @@ markers:
   - {type: line-break, offset: 172, content: '', id: KX_7_dup128, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg-start', offset: 174, content: '', id: KR3fc034_tls_001-p142.s7.2, seg_type: comm, member_ids: [KR3fc034_tls_001-p142.s7.2]}
   - {type: 'tls:seg', offset: 174, content: '', id: KR3fc034_tls_001-p142.s7.2}
+  - {type: substitution, offset: 178, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
+  - {type: substitution, offset: 184, original: 减, replacement: 減, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17346}}
+  - {type: substitution, offset: 188, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
+  - {type: substitution, offset: 189, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
   - {type: punctuation, offset: 194, content: □, id: KR3fc034_tls_552-bkkpn2}
   - {type: line-break, offset: 197, content: '', id: KR3fc034_tls_552-bkklb12}
+  - {type: substitution, offset: 200, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
+  - {type: substitution, offset: 201, original: 数, replacement: 數, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17639}}
   - {type: punctuation, offset: 205, content: □, id: KR3fc034_tls_552-bkkpn3}
   - {type: punctuation, offset: 215, content: ○, id: KR3fc034_tls_552-bkkpn4}
   - {type: 'tls:seg-end', offset: 219, content: '', id: KR3fc034_tls_001-p142.s7.2_end, seg_type: comm}
@@ -84,10 +90,13 @@ markers:
   - {type: punctuation, offset: 219, content: □, id: KR3fc034_tls_552-bkkpn5}
   - {type: punctuation, offset: 219, content: □, id: KR3fc034_tls_552-bkkpn6}
   - {type: punctuation, offset: 221, content: □, id: KR3fc034_tls_552-bkkpn7}
+  - {type: substitution, offset: 226, original: 寔, replacement: 實, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16799}}
+  - {type: substitution, offset: 231, original: 带, replacement: 帶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16862}}
   - {type: punctuation, offset: 233, content: □, id: KR3fc034_tls_552-bkkpn8}
   - {type: punctuation, offset: 238, content: ○, id: KR3fc034_tls_552-bkkpn9}
   - {type: line-break, offset: 240, content: '', id: KR3fc034_tls_552-bkklb13}
   - {type: punctuation, offset: 247, content: □, id: KR3fc034_tls_552-bkkpn10}
+  - {type: substitution, offset: 248, original: 减, replacement: 減, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17346}}
   - {type: punctuation, offset: 251, content: □, id: KR3fc034_tls_552-bkkpn11}
   - {type: 'tls:seg-end', offset: 251, content: '', id: KR3fc034_tls_001-p142.s8.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 251, content: '', id: KR3fc034_tls_001-p142.s8.2}
@@ -102,4 +111,4 @@ markers:
   - {type: 'tls:seg-end', offset: 303, content: '', id: KR3fc034_tls_001-p142.s10.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 303, content: '', id: KR3fc034_tls_001-p142.s10.3}
   back: []
-hash: sha256:6d9e9b97fc71a39301c9ab913972224f25fdf701967b27dc6f929a2723d962f7
+hash: sha256:9eb4db4877331fe1b8bbf39d924b4ea3adf03e529073d03f2897c9bc6441b387

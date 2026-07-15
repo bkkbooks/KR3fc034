@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 除得八百三十三寸三分六厘為毬內空積以減全金毬積餘一百三十八寸六分四厘每方寸一斤變為一百三十八斤零數用斤兩加六法得一十兩二四分併之得毬重一百三十八斤十兩零二錢四分筭海説詳四卷終
-  hash: sha256:83a916f2043af6cc63222c1802a04922d2b1734dd8a7f1fc41c2fefcd993443a
+  text: 除得八百三十三寸三分六釐為毬內空積以減全金毬積餘一百三十八寸六分四釐每方寸一斤變為一百三十八斤零數用斤兩加六法得一十兩二四分併之得毬重一百三十八斤十兩零二錢四分算海説詳四卷終
+  hash: sha256:2ddb122592ed4b97a4d853f813f531ef6825088270bfbf595d72d019f77727e4
 metadata:
   title: 算海詳說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc034.xml
-hash: sha256:fb2f6fe75ea11251a62a3c480f6b502fd3587a8e28514750606071defee39dc8
+hash: sha256:ac3a9deea62c47e97a160c416b69111c70c5036d05ba2e37d390c73de25247d5

@@ -42,6 +42,7 @@ markers:
   - {type: line-break, offset: 49, content: '', id: KR3fc034_tls_598-bkklb7}
   - {type: 'tls:seg-end', offset: 52, content: '', id: KR3fc034_tls_001-p154.s2.4_end, seg_type: comm}
   - {type: 'tls:seg', offset: 52, content: '', id: KR3fc034_tls_001-p154.s2.5}
+  - {type: substitution, offset: 60, original: 畧, replacement: 略, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17299}}
   - {type: 'tls:seg-start', offset: 64, content: '', id: KR3fc034_tls_001-p154.s2.6, seg_type: comm, member_ids: [KR3fc034_tls_001-p154.s2.6]}
   - {type: 'tls:seg', offset: 64, content: '', id: KR3fc034_tls_001-p154.s2.6}
   - {type: line-break, offset: 67, content: '', id: KR3fc034_tls_598-bkklb8}
@@ -54,6 +55,7 @@ markers:
   - {type: line-break, offset: 78, content: '', id: KR3fc034_tls_598-bkklb9}
   - {type: 'tls:seg-end', offset: 79, content: '', id: KR3fc034_tls_001-p154.s3.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 79, content: '', id: KR3fc034_tls_001-p154.s3.3}
+  - {type: substitution, offset: 80, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20172}}
   - {type: 'tls:seg-start', offset: 84, content: '', id: KR3fc034_tls_001-p154.s3.4, seg_type: comm, member_ids: [KR3fc034_tls_001-p154.s3.4]}
   - {type: 'tls:seg', offset: 84, content: '', id: KR3fc034_tls_001-p154.s3.4}
   - {type: line-break, offset: 85, content: '', id: KR3fc034_tls_598-bkklb10}
@@ -166,4 +168,4 @@ markers:
   - {type: 'tls:seg-end', offset: 329, content: '', id: KR3fc034_tls_001-p154.s10.8_end, seg_type: comm}
   - {type: 'tls:seg', offset: 329, content: '', id: KR3fc034_tls_001-p154.s10.9}
   back: []
-hash: sha256:30fe0e6dcb3158c6d6fa30f904fadbfd09d2e474171c4200050f4d044fc616b1
+hash: sha256:e991c75f3050deab09d3aa8b05c82cc5739fef237f8e734b6de489fe5b40d831

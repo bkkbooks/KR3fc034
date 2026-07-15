@@ -167,7 +167,8 @@ markers:
   - {type: 'tls:seg-start', offset: 304, content: '', id: KR3fc034_tls_001-p138.s10.5, seg_type: comm, member_ids: [KR3fc034_tls_001-p138.s10.5]}
   - {type: 'tls:seg', offset: 304, content: '', id: KR3fc034_tls_001-p138.s10.5}
   - {type: line-break, offset: 309, content: '', id: KR3fc034_tls_536-bkklb29}
+  - {type: substitution, offset: 309, original: 厘, replacement: 釐, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16887}}
   - {type: 'tls:seg-end', offset: 312, content: '', id: KR3fc034_tls_001-p138.s10.5_end, seg_type: comm}
   - {type: 'tls:seg', offset: 312, content: '', id: KR3fc034_tls_001-p138.s10.6}
   back: []
-hash: sha256:1e151514053c1f1e24e267aca060d93bcd9cd1c4f2fe0a35456f8aaa483d366f
+hash: sha256:7894d901ed6341108c7f0756be565fe723c505327a445f030e09f8deeb796327

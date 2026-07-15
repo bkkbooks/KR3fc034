@@ -9,20 +9,33 @@ markers:
   - {type: punctuation, offset: 11, content: □, id: KR3fc034_tls_022-bkkpn2}
   - {type: 'tls:seg', offset: 14, content: '', id: KR3fc034_tls_001-p6.s9}
   - {type: line-break, offset: 14, content: '', id: KX_9_dup5, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: substitution, offset: 14, original: 释, replacement: 釋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17495}}
   - {type: punctuation, offset: 17, content: □, id: KR3fc034_tls_022-bkkpn3}
+  - {type: substitution, offset: 17, original: 阅, replacement: 閲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17202}}
+  - {type: substitution, offset: 21, original: 凢, replacement: 凡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16173}}
+  - {type: substitution, offset: 25, original: 寝, replacement: 寢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17650}}
   - {type: 'tls:seg', offset: 28, content: '', id: KR3fc034_tls_001-p6.s10}
   - {type: line-break, offset: 28, content: '', id: KX_10_dup5, _xml_error: duplicate-id, _xml_original_id: KX_10}
   - {type: punctuation, offset: 30, content: □, id: KR3fc034_tls_022-bkkpn4}
+  - {type: substitution, offset: 30, original: 随, replacement: 隨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17392}}
   - {type: punctuation, offset: 31, content: □, id: KR3fc034_tls_022-bkkpn5}
+  - {type: substitution, offset: 31, original: 业, replacement: 業, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16247}}
   - {type: 'tls:seg', offset: 40, content: '', id: KR3fc034_tls_001-p6.s11}
   - {type: line-break, offset: 40, content: '', id: KX_11_dup5, _xml_error: duplicate-id, _xml_original_id: KX_11}
   - {type: punctuation, offset: 46, content: □, id: KR3fc034_tls_022-bkkpn6}
   - {type: punctuation, offset: 52, content: □, id: KR3fc034_tls_022-bkkpn7}
   - {type: 'tls:seg', offset: 53, content: '', id: KR3fc034_tls_001-p6.s12}
   - {type: line-break, offset: 53, content: '', id: KX_12_dup5, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: substitution, offset: 55, original: 门, replacement: 門, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16176}}
+  - {type: substitution, offset: 57, original: 势, replacement: 勢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16648}}
+  - {type: substitution, offset: 62, original: 闭, replacement: 閉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16387}}
+  - {type: substitution, offset: 65, original: 时, replacement: 時, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16504}}
   - {type: 'tls:seg', offset: 68, content: '', id: KR3fc034_tls_001-p6.s13}
   - {type: line-break, offset: 68, content: '', id: KX_13_dup5, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: punctuation, offset: 74, content: □, id: KR3fc034_tls_022-bkkpn8}
+  - {type: substitution, offset: 78, original: 厓, replacement: 崖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19618}}
+  - {type: substitution, offset: 79, original: 刍, replacement: 芻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17841}}
   - {type: punctuation, offset: 80, content: □, id: KR3fc034_tls_022-bkkpn9}
+  - {type: substitution, offset: 81, original: 歓, replacement: 歡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20633}}
   back: []
-hash: sha256:3e6181bc96ffb22410c3c8336f059b6f6a67ded8c530590fe529e6e1410a46e3
+hash: sha256:fa40314343fd29ffed948cedd104e674aea80caa2d2ba0dd3f03bb85e0e49275

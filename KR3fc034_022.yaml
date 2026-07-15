@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 受書後乞悟書理九好周易諸家論释沉覆阅務一當凢二十年寝寤于中召随业意未中衰也值鼎革櫢就秩戊子移南皮譅信欲為何冦熾门戶势肖難施迤闭守經时密盡定龍自幸可告遇而赤洪厓刍供歓
-  hash: sha256:40ff03158175c34a66c005659a8c3feaae90810e8bf4f8f8684e428bef40a1ad
+  text: 受書後乞悟書理九好周易諸家論釋沉覆閲務一當凡二十年寢寤于中召隨業意未中衰也值鼎革櫢就秩戊子移南皮譅信欲為何冦熾門戶勢肖難施迤閉守經時密盡定龍自幸可告遇而赤洪崖芻供歡
+  hash: sha256:266b5475a698687a1df48df9a2f38bc47f57d7247fac0e5921226352bf87f2c0
 metadata:
   title: 算海詳說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc034.xml
-hash: sha256:284b1b77722e79c0cca741978b46f253c935774463137a39257f8f2560d416c1
+hash: sha256:9d7e27e91030014491d3f28dc4979bc43e9f452d2efc5017a74eda500f99b2fb

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 付覆检爱卷神不详则守株佳爾聖详筭省弱汝欲是说孔余说拙为先生之说歲康子仲余立佳邑长时困鉥毅為善月壬午拙百爽白內浮影夕我说事聆塵頭屑玉汩若例久出
-  hash: sha256:d0f35d28643650be8f1ea942202cf6f70fa37fb832f7dac6612f3564cfd334f2
+  text: 付覆檢愛卷神不詳則守株佳爾聖詳算省弱汝欲是説孔余説拙為先生之説歲康子仲余立佳邑長時困鉥毅為善月壬午拙百爽白內浮影夕我説事聆塵頭屑玉汩若例久出
+  hash: sha256:fc2335673bf13e9e42a1989a988256d6764ce6efe2976c90a5355d0d9947c33a
 metadata:
   title: 算海詳說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc034.xml
-hash: sha256:71fcd024bb5742313af4ef6d5123635eb461d10f2cb37d6ad84c56096ba5d03e
+hash: sha256:5baf9fc346bbe978af05c5534314b9e2282e188c5f9b007919e42e707ba3e057

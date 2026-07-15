@@ -7,6 +7,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_1_dup2, _xml_error: duplicate-id, _xml_original_id: KX_1}
   - {type: 'tls:seg', offset: 17, content: '', id: KR3fc034_tls_001-p3.s2}
   - {type: line-break, offset: 17, content: '', id: KX_2_dup3, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: substitution, offset: 20, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20121}}
   - {type: 'tls:seg', offset: 34, content: '', id: KR3fc034_tls_001-p3.s3}
   - {type: line-break, offset: 34, content: '', id: KX_3_dup3, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: punctuation, offset: 35, content: □, id: KR3fc034_tls_010-bkkpn1}
@@ -21,17 +22,25 @@ markers:
   - {type: punctuation, offset: 45, content: □, id: KR3fc034_tls_010-bkkpn8}
   - {type: punctuation, offset: 45, content: □, id: KR3fc034_tls_010-bkkpn9}
   - {type: punctuation, offset: 50, content: □, id: KR3fc034_tls_010-bkkpn10}
+  - {type: substitution, offset: 51, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20121}}
   - {type: punctuation, offset: 52, content: □, id: KR3fc034_tls_010-bkkpn11}
   - {type: punctuation, offset: 52, content: □, id: KR3fc034_tls_010-bkkpn12}
+  - {type: substitution, offset: 52, original: 儿, replacement: 兒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16164}}
   - {type: 'tls:seg', offset: 55, content: '', id: KR3fc034_tls_001-p3.s5}
   - {type: line-break, offset: 55, content: '', id: KX_5_dup3, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: punctuation, offset: 61, content: □, id: KR3fc034_tls_010-bkkpn13}
+  - {type: substitution, offset: 65, original: 则, replacement: 則, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16351}}
+  - {type: substitution, offset: 68, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20121}}
   - {type: 'tls:seg', offset: 69, content: '', id: KR3fc034_tls_001-p3.s6}
   - {type: line-break, offset: 69, content: '', id: KX_6_dup3, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: punctuation, offset: 72, content: □, id: KR3fc034_tls_010-bkkpn14}
+  - {type: substitution, offset: 74, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
+  - {type: substitution, offset: 75, original: 猎, replacement: 獵, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17340}}
   - {type: punctuation, offset: 76, content: □, id: KR3fc034_tls_010-bkkpn15}
   - {type: punctuation, offset: 76, content: □, id: KR3fc034_tls_010-bkkpn16}
+  - {type: substitution, offset: 76, original: 戧, replacement: 創, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19719}}
   - {type: punctuation, offset: 78, content: □, id: KR3fc034_tls_010-bkkpn17}
   - {type: punctuation, offset: 78, content: □, id: KR3fc034_tls_010-bkkpn18}
+  - {type: substitution, offset: 78, original: 写, replacement: 寫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16285}}
   back: []
-hash: sha256:398a7549ce3cdb04df26045dc7c9b6a03a2ef7c982a1c4d10b7e89e90a8d0ff3
+hash: sha256:305968dd462f56738a47397e6e7a909dd4d44bf9516d888a2a93cc5c4ad58248

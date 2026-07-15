@@ -5,7 +5,13 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc034_tls_001-p141.s12.1}
   - {type: line-break, offset: 0, content: '', id: KX_12_dup120, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: substitution, offset: 1, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
+  - {type: substitution, offset: 4, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
+  - {type: substitution, offset: 11, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
+  - {type: substitution, offset: 12, original: 数, replacement: 數, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17639}}
+  - {type: substitution, offset: 14, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20121}}
   - {type: line-break, offset: 19, content: '', id: KR3fc034_tls_550-bkklb1}
+  - {type: substitution, offset: 31, original: 数, replacement: 數, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17639}}
   - {type: 'tls:seg-end', offset: 37, content: '', id: KR3fc034_tls_001-p141.s12.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 37, content: '', id: KR3fc034_tls_001-p141.s12.2}
   - {type: 'tls:seg', offset: 37, content: '', id: KR3fc034_tls_001-p141.s13}
@@ -93,4 +99,4 @@ markers:
   - {type: 'tls:seg-end', offset: 293, content: '', id: KR3fc034_tls_001-p141.s21.8_end, seg_type: comm}
   - {type: 'tls:seg', offset: 293, content: '', id: KR3fc034_tls_001-p141.s21.9}
   back: []
-hash: sha256:092ad527cecc3e532e5055450da079b3e2aebd769931dfab6f8e17f8d6e0a5a2
+hash: sha256:66be38b54422937118b6a438aee555a09414c6f1418fa7259f7ecfc02dd49066

@@ -119,6 +119,7 @@ markers:
   - {type: line-break, offset: 174, content: '', id: KR3fc034_tls_626-bkklb14}
   - {type: 'tls:seg-end', offset: 175, content: '', id: KR3fc034_tls_001-p161.s6.4_end, seg_type: comm}
   - {type: 'tls:seg', offset: 175, content: '', id: KR3fc034_tls_001-p161.s6.5}
+  - {type: substitution, offset: 175, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
   - {type: 'tls:seg-start', offset: 178, content: '', id: KR3fc034_tls_001-p161.s6.6, seg_type: comm, member_ids: [KR3fc034_tls_001-p161.s6.6]}
   - {type: 'tls:seg', offset: 178, content: '', id: KR3fc034_tls_001-p161.s6.6}
   - {type: line-break, offset: 181, content: '', id: KR3fc034_tls_626-bkklb15}
@@ -140,6 +141,7 @@ markers:
   - {type: line-break, offset: 203, content: '', id: KR3fc034_tls_626-bkklb17}
   - {type: 'tls:seg-end', offset: 204, content: '', id: KR3fc034_tls_001-p161.s7.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 204, content: '', id: KR3fc034_tls_001-p161.s7.3}
+  - {type: substitution, offset: 205, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
   - {type: 'tls:seg-start', offset: 206, content: '', id: KR3fc034_tls_001-p161.s7.4, seg_type: comm, member_ids: [KR3fc034_tls_001-p161.s7.4]}
   - {type: 'tls:seg', offset: 206, content: '', id: KR3fc034_tls_001-p161.s7.4}
   - {type: line-break, offset: 209, content: '', id: KR3fc034_tls_626-bkklb18}
@@ -221,4 +223,4 @@ markers:
   - {type: 'tls:seg-end', offset: 334, content: '', id: KR3fc034_tls_001-p161.s10.6_end, seg_type: comm}
   - {type: 'tls:seg', offset: 334, content: '', id: KR3fc034_tls_001-p161.s10.7}
   back: []
-hash: sha256:744a2eb72dbcc398958e398ba6a0243777afd1d1ebf7128202bd45c42f8f6c36
+hash: sha256:4f9de3faeae4cb498badd8b5c94b02fde4670787355234bb9795e8104994e19b

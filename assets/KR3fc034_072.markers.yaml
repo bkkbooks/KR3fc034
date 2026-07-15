@@ -10,6 +10,7 @@ markers:
   - {type: 'tls:seg', offset: 23, content: '', id: KR3fc034_tls_001-p19.s14}
   - {type: line-break, offset: 23, content: '', id: KX_14_dup8, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: punctuation, offset: 31, content: □, id: KR3fc034_tls_072-bkkpn1}
+  - {type: substitution, offset: 33, original: 爱, replacement: 愛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17170}}
   - {type: 'tls:seg', offset: 34, content: '', id: KR3fc034_tls_001-p19.s15}
   - {type: line-break, offset: 34, content: '', id: KX_15_dup8, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg', offset: 46, content: '', id: KR3fc034_tls_001-p19.s16}
@@ -37,6 +38,7 @@ markers:
   - {type: 'tls:seg-end', offset: 82, content: '', id: KR3fc034_tls_001-p19.s18.8_end, seg_type: comm}
   - {type: 'tls:seg', offset: 82, content: '', id: KR3fc034_tls_001-p19.s19.1}
   - {type: line-break, offset: 82, content: '', id: KX_19_dup6, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: substitution, offset: 82, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
   - {type: 'tls:seg-start', offset: 85, content: '', id: KR3fc034_tls_001-p19.s19.2, seg_type: comm, member_ids: [KR3fc034_tls_001-p19.s19.2]}
   - {type: 'tls:seg', offset: 85, content: '', id: KR3fc034_tls_001-p19.s19.2}
   - {type: line-break, offset: 87, content: '', id: KR3fc034_tls_072-bkklb2}
@@ -49,4 +51,4 @@ markers:
   - {type: 'tls:seg', offset: 106, content: '', id: KR3fc034_tls_001-p19.s21}
   - {type: line-break, offset: 106, content: '', id: KX_21_dup6, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:3c0b882b3764808672e00c9cdc58e3a18f85ca6e6b44e259d2733e6950f7bf4c
+hash: sha256:21a10d5bf1a85d1adf42a1fc7a6e321195c796cbc19cd83f3983d3b334627844

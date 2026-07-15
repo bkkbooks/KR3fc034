@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 算海説詳自序数理著也家儒獍者先强拙更數天行上道也形下器也數金六三一九筭又數之一治其遠有大者遗小奚譏孔子聖少也都事不辭游一枝苟免终日之訾聖人寕賢之矢余質艻而負且癖
-  hash: sha256:d67227a8f56b1503d402f120e32358037b3de0c4b8deea16a2ff4ae0a2d1010b
+  text: 算海説詳自序數理著也家儒獍者先強拙更數天行上道也形下器也數金六三一九算又數之一治其遠有大者遺小奚譏孔子聖少也都事不辭遊一枝苟免終日之訾聖人寧賢之矢余質艻而負且癖
+  hash: sha256:7ef1e422022bca1ed5b1f938efc237befd974ae46ba564dda2799a91508e8e72
 metadata:
   title: 算海詳說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc034.xml
-hash: sha256:1d5aa5af45959676e700c0736729e57a633db9ef71362bb896fd3d90198b0cd5
+hash: sha256:36401439781fa617822b8a58fd4045db51ba2c3f73b321f900b43990fd3d38b1

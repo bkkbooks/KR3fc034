@@ -23,6 +23,7 @@ markers:
   - {type: line-break, offset: 202, content: '', id: KX_9_dup96, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: 'tls:seg', offset: 229, content: '', id: KR3fc034_tls_001-p100.s10}
   - {type: line-break, offset: 229, content: '', id: KX_10_dup95, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: substitution, offset: 233, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20121}}
   - {type: punctuation, offset: 251, content: □, id: KR3fc034_tls_388-bkkpn1}
   back: []
-hash: sha256:655ce6e7074313c2900158e9b241e5c2011f3fd8269fc91bd7c9d7f9e57f32ea
+hash: sha256:6c4286b141a6ed4d8ebfc2e108a04da7e9b2adec2ed86b8ef82c74d72fcb033e

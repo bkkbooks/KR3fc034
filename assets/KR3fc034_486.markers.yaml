@@ -18,6 +18,7 @@ markers:
   - {type: line-break, offset: 32, content: '', id: KR3fc034_tls_486-bkklb2}
   - {type: 'tls:seg-end', offset: 34, content: '', id: KR3fc034_tls_001-p125.s2.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 34, content: '', id: KR3fc034_tls_001-p125.s2.3}
+  - {type: substitution, offset: 35, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
   - {type: 'tls:seg-start', offset: 37, content: '', id: KR3fc034_tls_001-p125.s2.4, seg_type: comm, member_ids: [KR3fc034_tls_001-p125.s2.4]}
   - {type: 'tls:seg', offset: 37, content: '', id: KR3fc034_tls_001-p125.s2.4}
   - {type: line-break, offset: 40, content: '', id: KR3fc034_tls_486-bkklb3}
@@ -25,6 +26,7 @@ markers:
   - {type: 'tls:seg', offset: 43, content: '', id: KR3fc034_tls_001-p125.s2.5}
   - {type: 'tls:seg', offset: 47, content: '', id: KR3fc034_tls_001-p125.s3.1}
   - {type: line-break, offset: 47, content: '', id: KX_3_dup121, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: substitution, offset: 47, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
   - {type: 'tls:seg-start', offset: 48, content: '', id: KR3fc034_tls_001-p125.s3.2, seg_type: comm, member_ids: [KR3fc034_tls_001-p125.s3.2]}
   - {type: 'tls:seg', offset: 48, content: '', id: KR3fc034_tls_001-p125.s3.2}
   - {type: line-break, offset: 52, content: '', id: KR3fc034_tls_486-bkklb4}
@@ -190,4 +192,4 @@ markers:
   - {type: 'tls:seg-end', offset: 294, content: '', id: KR3fc034_tls_001-p125.s10.8_end, seg_type: comm}
   - {type: 'tls:seg', offset: 294, content: '', id: KR3fc034_tls_001-p125.s10.9}
   back: []
-hash: sha256:301d3be17b68dafa76edeb71074fdb872bc45a2f6e553c5f1aa517b6ee7a0d3c
+hash: sha256:16f64bc5fa0d7170c60ee8b6b1eff35452cd8e4228b88c4891d020cd7e0181a9

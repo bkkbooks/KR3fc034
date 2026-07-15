@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 筭書示余額曰筭汝靜几三覆我凢曰欽汝考讀拙筭考為筭其欺欦爰為付吳木蘄心考卅详杜尔乎無而謮文章言乃事堪為方谷汝筭书编问兴殆猎拙汝
-  hash: sha256:bb2d44f2d7a70924a2adbb15c50a9b62f77c569fcbab3bf81da87e659400ebec
+  text: 算書示余額曰算汝靜几三覆我凡曰欽汝考讀拙算考為算其欺欦爰為付吳木蘄心考卅詳杜爾乎無而謮文章言乃事堪為方谷汝算書編問興殆獵拙汝
+  hash: sha256:36fa0dabbcd955c5d1df2d386a8ed972b76d31b544b4bd0cf22c0c6e058b7182
 metadata:
   title: 算海詳說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc034.xml
-hash: sha256:4fbbb57f80f5e99446cd1b2c145738d6749fd68d8ca14e13636bb7f5a5a40ea9
+hash: sha256:10e3475ccc98e34ee5f08c447a30cbfcaec6768221705fc52797258c48d0e0a1

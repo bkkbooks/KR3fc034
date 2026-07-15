@@ -82,6 +82,7 @@ markers:
   - {type: line-break, offset: 172, content: '', id: KR3fc034_tls_574-bkklb12}
   - {type: 'tls:seg-end', offset: 174, content: '', id: KR3fc034_tls_001-p148.s8.3_end, seg_type: comm}
   - {type: 'tls:seg', offset: 174, content: '', id: KR3fc034_tls_001-p148.s8.4}
+  - {type: substitution, offset: 175, original: 寔, replacement: 實, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16799}}
   - {type: 'tls:seg-start', offset: 176, content: '', id: KR3fc034_tls_001-p148.s8.5, seg_type: comm, member_ids: [KR3fc034_tls_001-p148.s8.5]}
   - {type: 'tls:seg', offset: 176, content: '', id: KR3fc034_tls_001-p148.s8.5}
   - {type: line-break, offset: 180, content: '', id: KR3fc034_tls_574-bkklb13}
@@ -104,6 +105,7 @@ markers:
   - {type: line-break, offset: 202, content: '', id: KR3fc034_tls_574-bkklb16}
   - {type: 'tls:seg-end', offset: 203, content: '', id: KR3fc034_tls_001-p148.s9.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 203, content: '', id: KR3fc034_tls_001-p148.s9.3}
+  - {type: substitution, offset: 203, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
   - {type: 'tls:seg-start', offset: 208, content: '', id: KR3fc034_tls_001-p148.s9.4, seg_type: comm, member_ids: [KR3fc034_tls_001-p148.s9.4]}
   - {type: 'tls:seg', offset: 208, content: '', id: KR3fc034_tls_001-p148.s9.4}
   - {type: line-break, offset: 211, content: '', id: KR3fc034_tls_574-bkklb17}
@@ -142,4 +144,4 @@ markers:
   - {type: 'tls:seg-end', offset: 268, content: '', id: KR3fc034_tls_001-p148.s10.8_end, seg_type: comm}
   - {type: 'tls:seg', offset: 268, content: '', id: KR3fc034_tls_001-p148.s10.9}
   back: []
-hash: sha256:a2389b923af65dbbeced0d13b116c7156593ba8d9a2b8c26c464bbc6a2c8f44b
+hash: sha256:51a6dce98b77879d4eb559476e1237eb397441bc41ee3c77075a2d443155ee55

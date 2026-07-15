@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 法實左右定位分別法實左右圖至尾屬末位位以次挨下莫為法之酋上接寔尾起法為母靜為寔之末位挨下至數尾實為子動之首位以次自左起為寔按洛數曰左三右七則右者第一之行位也左者第二之行位也乆
-  hash: sha256:9904b989b7ac1ea000c363474a8dde78dadf145698a31742fa1cca0f44cd1951
+  text: 法實左右定位分別法實左右圖至尾屬末位位以次挨下莫為法之酋上接實尾起法為母靜為實之末位挨下至數尾實為子動之首位以次自左起為實按洛數曰左三右七則右者第一之行位也左者第二之行位也久
+  hash: sha256:2c2edb46da167ad59fc0b3c0ee841cff1afca7a02251716437b0cc65dee53c80
 metadata:
   title: 算海詳說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc034.xml
-hash: sha256:32571d3db447f26ec3e8209817836eda4cf3ab8c9dfcdca3f49570527d560b6b
+hash: sha256:c67975171ae4f2536ad6e24feb96b3598f48c0d4fe8a19485ba47a617d1ec8c9

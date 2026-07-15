@@ -5,12 +5,15 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc034_tls_001-p77.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup71, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: substitution, offset: 1, original: 佔, replacement: 占, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16245}}
   - {type: 'tls:seg', offset: 16, content: '', id: KR3fc034_tls_001-p77.s2}
   - {type: line-break, offset: 16, content: '', id: KX_2_dup75, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg', offset: 32, content: '', id: KR3fc034_tls_001-p77.s3}
   - {type: line-break, offset: 32, content: '', id: KX_3_dup74, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: substitution, offset: 39, original: 週, replacement: 周, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16750}}
   - {type: 'tls:seg', offset: 48, content: '', id: KR3fc034_tls_001-p77.s4}
   - {type: line-break, offset: 48, content: '', id: KX_4_dup73, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: substitution, offset: 53, original: 厘, replacement: 釐, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16887}}
   - {type: 'tls:seg', offset: 65, content: '', id: KR3fc034_tls_001-p77.s5.1}
   - {type: line-break, offset: 65, content: '', id: KX_5_dup72, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg-start', offset: 70, content: '', id: KR3fc034_tls_001-p77.s5.2, seg_type: comm, member_ids: [KR3fc034_tls_001-p77.s5.2]}
@@ -114,4 +117,4 @@ markers:
   - {type: 'tls:seg', offset: 255, content: '', id: KR3fc034_tls_001-p77.s10}
   - {type: line-break, offset: 255, content: '', id: KX_10_dup72, _xml_error: duplicate-id, _xml_original_id: KX_10}
   back: []
-hash: sha256:852e2193048d065f157aec784aeacc219e573077e88a6cc93bc309594d057564
+hash: sha256:16d601e54db07dce6166bf79e5e5cd33a89ae34f7b35427330c7be8292457eab

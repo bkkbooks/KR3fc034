@@ -22,6 +22,7 @@ markers:
   - {type: line-break, offset: 33, content: '', id: KR3fc034_tls_046-bkklb3}
   - {type: 'tls:seg-end', offset: 34, content: '', id: KR3fc034_tls_001-p13.s2.4_end, seg_type: comm}
   - {type: 'tls:seg', offset: 34, content: '', id: KR3fc034_tls_001-p13.s2.5}
+  - {type: substitution, offset: 36, original: 帮, replacement: 幫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16847}}
   - {type: 'tls:seg-start', offset: 40, content: '', id: KR3fc034_tls_001-p13.s2.6, seg_type: comm, member_ids: [KR3fc034_tls_001-p13.s2.6]}
   - {type: 'tls:seg', offset: 40, content: '', id: KR3fc034_tls_001-p13.s2.6}
   - {type: line-break, offset: 42, content: '', id: KR3fc034_tls_046-bkklb4}
@@ -47,6 +48,7 @@ markers:
   - {type: 'tls:seg', offset: 77, content: '', id: KR3fc034_tls_001-p13.s4.5}
   - {type: 'tls:seg', offset: 78, content: '', id: KR3fc034_tls_001-p13.s5.1}
   - {type: line-break, offset: 78, content: '', id: KX_5_dup11, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: substitution, offset: 81, original: 墙, replacement: 墻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17665}}
   - {type: 'tls:seg-start', offset: 94, content: '', id: KR3fc034_tls_001-p13.s5.2, seg_type: comm, member_ids: [KR3fc034_tls_001-p13.s5.2]}
   - {type: 'tls:seg', offset: 94, content: '', id: KR3fc034_tls_001-p13.s5.2}
   - {type: line-break, offset: 95, content: '', id: KR3fc034_tls_046-bkklb7}
@@ -75,11 +77,17 @@ markers:
   - {type: line-break, offset: 163, content: '', id: KX_9_dup11, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: 'tls:seg', offset: 166, content: '', id: KR3fc034_tls_001-p13.s10.1}
   - {type: line-break, offset: 166, content: '', id: KX_10_dup11, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: substitution, offset: 167, original: 两, replacement: 兩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16494}}
+  - {type: substitution, offset: 169, original: 觔, replacement: 斤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16211}}
+  - {type: substitution, offset: 177, original: 觔, replacement: 斤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16211}}
   - {type: 'tls:seg-start', offset: 179, content: '', id: KR3fc034_tls_001-p13.s10.2, seg_type: comm, member_ids: [KR3fc034_tls_001-p13.s10.2]}
   - {type: 'tls:seg', offset: 179, content: '', id: KR3fc034_tls_001-p13.s10.2}
+  - {type: substitution, offset: 181, original: 约, replacement: 約, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16436}}
+  - {type: substitution, offset: 182, original: 秤, replacement: 稱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20184}}
   - {type: line-break, offset: 184, content: '', id: KR3fc034_tls_046-bkklb10}
+  - {type: substitution, offset: 184, original: 两, replacement: 兩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16494}}
   - {type: punctuation, offset: 186, content: □, id: KR3fc034_tls_046-bkkpn5}
   - {type: 'tls:seg-end', offset: 188, content: '', id: KR3fc034_tls_001-p13.s10.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 188, content: '', id: KR3fc034_tls_001-p13.s10.3}
   back: []
-hash: sha256:72aaee575a31798c349b244951d09475cbb22d0d4269a02409534eecd06d3437
+hash: sha256:9cf3a6d9c9f4ff9e25c846c6dc1b2ccf1aaa238af4723d5aac1371ff6e412123

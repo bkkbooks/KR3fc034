@@ -5,10 +5,13 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc034_tls_001-p10.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup9, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: substitution, offset: 0, original: 顺, replacement: 順, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16956}}
   - {type: punctuation, offset: 1, content: □, id: KR3fc034_tls_036-bkkpn1}
   - {type: punctuation, offset: 3, content: □, id: KR3fc034_tls_036-bkkpn2}
+  - {type: substitution, offset: 10, original: 学, replacement: 學, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16792}}
   - {type: 'tls:seg', offset: 12, content: '', id: KR3fc034_tls_001-p10.s2}
   - {type: line-break, offset: 12, content: '', id: KX_2_dup10, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: punctuation, offset: 18, content: □, id: KR3fc034_tls_036-bkkpn3}
+  - {type: substitution, offset: 21, original: 静, replacement: 靜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20691}}
   back: []
-hash: sha256:eac99ebf1d6d2a71cc67da2800c5a8ef79677e086db903e1bbce03cd54ff8948
+hash: sha256:3b62eff63f8a618d355a479854834bb208d603e898b86964409ac0d8b44db55d
